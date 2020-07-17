@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import config
 import os
-
+import youtube
+print('Authenticated')
 with open('resource/udacity_azure.json', 'r') as cfile:
     content = json.load(cfile)
 
@@ -34,12 +35,13 @@ for lesson in content:
     for i in range(len(chapters)):
         index += '.' + str(i)
         name = chapters[i]['name']
-        URL = get_youtube_url(chapters[i]['youtube'])
+        # URL = get_youtube_url(chapters[i]['youtube'])
         # (view_count, title) = getStats(URL)
+        (view_count, title) = youtube.getStats(chapters[i]['youtube'])
 
         lessons.append(index)
         index = str(lesson['index'])
-        views.append(int(0))
+        views.append(int(view_count))
         names.append(name)
 
 udacity_stats = {
