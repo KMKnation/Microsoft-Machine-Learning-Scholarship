@@ -30,7 +30,7 @@
       {
         "id": 2,
         "name": "What is Machine Learning?",
-        "youtube": "mVblChI"
+        "youtube": "567-mVblChI"
       },
       {
         "id": 3,
@@ -46,7 +46,7 @@
         "id": 5,
         "name": "The Data Science Process",
         "youtube": "xX66AYbEJJY"
-      }
+      },
       {
         "id": 6,
         "name": "Common Types of Data",
@@ -140,6 +140,14 @@
         "id": 27,
         "name": "Overfitting vs. Underfitting",
         "youtube": "X1DotdITKyE"
+      },      {
+        "id": 28,
+        "name": "Bias vs. Variance Trade-off",
+        "youtube": "eAxyENSV7JE"
+      },      {
+        "id": 29,
+        "name": "Lesson Summary",
+        "youtube": "Hoh74KrKh5k"
       }
     ]
   }
