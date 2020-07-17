@@ -1,0 +1,22 @@
+[
+  {
+    "index": 1,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Welcome to Udacity",
+        "youtube": "9QadFJRKrEA"
+      },
+      {
+        "id": 2,
+        "name": "Why Machine Learning?",
+        "youtube": "hwtrw64xQmQ"
+      },
+      {
+        "id": 3,
+        "name": "Course Overview",
+        "youtube": "C25mkY1R5Wc"
+      }
+    ]
+  }
+]
