@@ -30,7 +30,7 @@
 	Encouraging: @Aarthi Alagammai @Richa @Pooja Tope-Puranik @Veena @Viji @geax @Harshit Rai  :yay::bhangra:
 
 ##### 17, July 2020
-- D4: L2 Complete
+- D5: L2 Complete
 - Created Youtube Statistics App
     
     <u>Description:-</u>
@@ -46,3 +46,10 @@
     ![Plot](resource/plot.png) 
     
     
+
+##### 17, July 2020
+- D6: L3 upto 5
+- Zoom meet with #sg_connecting_the_dots_with_ml mates 
+  
+  ![Kick start meeting](resource/meet-16.png)
+  
