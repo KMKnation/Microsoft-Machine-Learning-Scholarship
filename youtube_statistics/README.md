@@ -37,7 +37,8 @@ Pandas, Matplotlin and seaborn used to create plot from the availlable data.
     
 - Run pip install -r requirements.txt to download python dependencies
 
-
-
+<b>Command:</b>
+    
+    python3 video_stats.py
 
   
