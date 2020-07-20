@@ -221,6 +221,46 @@
         "id": 9,
         "name": "Lab: Create and Version a Dataset",
         "youtube": "aIvMainDa1E"
+      },
+      {
+        "id": 10,
+        "name": "Introducing Features",
+        "youtube": "aO2rp406n8A"
+      },
+      {
+        "id": 11,
+        "name": "Feature Engineering",
+        "youtube": "j-b4K7KjEKA"
+      },
+      {
+        "id": 12,
+        "name": "Examples of Feature Engineering Tasks",
+        "youtube": "BTiJGJbMfbY"
+      },
+      {
+        "id": 13,
+        "name": "Summary of Feature Engineering Approaches by Data Type",
+        "youtube": "ecd3jvTdlGw"
+      },
+      {
+        "id": 14,
+        "name": "Feature Selection",
+        "youtube": "A_2GRAhJrAs"
+      },
+      {
+        "id": 15,
+        "name": "Feature Selection (2)",
+        "youtube": "5umJYhVUKcw"
+      },
+      {
+        "id": 16,
+        "name": "Walkthrough: Engineer and Select Features",
+        "youtube": "pIOkoTphyR8"
+      },
+      {
+        "id": 17,
+        "name": "Walkthrough: Engineer and Select Features (2)",
+        "youtube": "KpO1Wa_TvT4"
       }
     ]
   }

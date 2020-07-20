@@ -110,3 +110,53 @@ date,lesson,views,name
 2020/07/19 19:36:05,3-6,1222,More About Datasets
 2020/07/19 19:36:05,3-7,1061,More About Datasets (2)
 2020/07/19 19:36:05,3-8,1090,Lab: Create and Version a Dataset
+2020/07/20 20:50:24,1-0,8695,Welcome to Udacity
+2020/07/20 20:50:24,1-1,5081,Why Machine Learning?
+2020/07/20 20:50:24,1-2,4650,Course Overview
+2020/07/20 20:50:24,2-0,4821,Lesson Overview
+2020/07/20 20:50:24,2-1,4341,What is Machine Learning?
+2020/07/20 20:50:24,2-2,4014,Applications of Machine Learning
+2020/07/20 20:50:24,2-3,3657,Brief History of Machine Learning
+2020/07/20 20:50:24,2-4,3332,The Data Science Process
+2020/07/20 20:50:24,2-5,3190,Common Types of Data
+2020/07/20 20:50:24,2-6,2712,Tabular Data
+2020/07/20 20:50:24,2-7,2657,Tabular Data
+2020/07/20 20:50:24,2-8,2809,Scaling Data
+2020/07/20 20:50:24,2-9,2741,Encoding Categorical Data
+2020/07/20 20:50:24,2-10,2739,Image Data
+2020/07/20 20:50:24,2-11,2744,The Whole Pipeline
+2020/07/20 20:50:24,2-12,2773,Two Perspectives on ML
+2020/07/20 20:50:24,2-13,2628,The Computer Science Perspective
+2020/07/20 20:50:24,2-14,2518,The Statistical Perspective
+2020/07/20 20:50:24,2-15,2664,The Tools for Machine Learning
+2020/07/20 20:50:24,2-16,2483,Libraries for Machine Learning
+2020/07/20 20:50:24,2-17,2770,Cloud Services for Machine Learning
+2020/07/20 20:50:24,2-18,2555,A Brief Intro to Azure Machine Learning
+2020/07/20 20:50:24,2-19,2461,Models vs. Algorithms
+2020/07/20 20:50:24,2-20,2587,Linear Regression
+2020/07/20 20:50:24,2-21,2775,Walkthrough: Train a Linear Regression Model
+2020/07/20 20:50:24,2-22,1970,Learning a function
+2020/07/20 20:50:24,2-23,2058,Parametric vs. Non-parametric
+2020/07/20 20:50:24,2-24,1957,Classical ML vs. Deep Learning
+2020/07/20 20:50:24,2-25,2033,Approaches to Machine Learning
+2020/07/20 20:50:24,2-26,2004,The Trade-Offs
+2020/07/20 20:50:24,2-27,1848,Overfitting vs. Underfitting
+2020/07/20 20:50:24,2-28,1815,Bias vs. Variance Trade-off
+2020/07/20 20:50:24,2-29,1908,Lesson Summary
+2020/07/20 20:50:24,3-0,1987,Lesson Overview
+2020/07/20 20:50:24,3-1,1847,Data Import and Transformation
+2020/07/20 20:50:24,3-2,1780,"Lab: Import, Transform, and Export Data"
+2020/07/20 20:50:24,3-3,1582,Managing Data
+2020/07/20 20:50:24,3-4,1355,Datastores vs. Datasets
+2020/07/20 20:50:24,3-5,1386,The Data Access Workflow
+2020/07/20 20:50:24,3-6,1363,More About Datasets
+2020/07/20 20:50:24,3-7,1187,More About Datasets (2)
+2020/07/20 20:50:24,3-8,1216,Lab: Create and Version a Dataset
+2020/07/20 20:50:24,3-9,1156,Introducing Features
+2020/07/20 20:50:24,3-10,1261,Feature Engineering
+2020/07/20 20:50:24,3-11,1144,Examples of Feature Engineering Tasks
+2020/07/20 20:50:24,3-12,1119,Summary of Feature Engineering Approaches by Data Type
+2020/07/20 20:50:24,3-13,1153,Feature Selection
+2020/07/20 20:50:24,3-14,1089,Feature Selection (2)
+2020/07/20 20:50:24,3-15,1080,Walkthrough: Engineer and Select Features
+2020/07/20 20:50:24,3-16,898,Walkthrough: Engineer and Select Features (2)
