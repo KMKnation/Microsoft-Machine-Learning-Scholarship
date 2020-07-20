@@ -40,5 +40,9 @@ Pandas, Matplotlin and seaborn used to create plot from the availlable data.
 <b>Command:</b>
     
     python3 video_stats.py
+    
+<b>Output: </b>
+
+![Output](screenshots/plot3.png)
 
   
