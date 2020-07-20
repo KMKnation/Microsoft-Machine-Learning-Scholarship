@@ -1,6 +1,6 @@
 import os
 
-RESOURCE_DIR = 'resource'
+RESOURCE_DIR = os.path.join(os.path.join(os.getcwd(), 'youtube_statistics'), 'resource')
 
 if not os.path.exists(RESOURCE_DIR):
     os.mkdir(RESOURCE_DIR)

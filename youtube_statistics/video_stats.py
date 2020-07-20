@@ -5,9 +5,9 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import config
+from youtube_statistics import config
 import os
-import youtube
+from youtube_statistics import youtube
 print('Authenticated')
 with open('resource/udacity_azure.json', 'r') as cfile:
     content = json.load(cfile)
