@@ -1,0 +1,227 @@
+[
+  {
+    "index": 1,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Welcome to Udacity",
+        "youtube": "9QadFJRKrEA"
+      },
+      {
+        "id": 2,
+        "name": "Why Machine Learning?",
+        "youtube": "hwtrw64xQmQ"
+      },
+      {
+        "id": 3,
+        "name": "Course Overview",
+        "youtube": "C25mkY1R5Wc"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Lesson Overview",
+        "youtube": "V__T6TEXobA"
+      },
+      {
+        "id": 2,
+        "name": "What is Machine Learning?",
+        "youtube": "567-mVblChI"
+      },
+      {
+        "id": 3,
+        "name": "Applications of Machine Learning",
+        "youtube": "IFqpMGZRaGc"
+      },
+      {
+        "id": 4,
+        "name": "Brief History of Machine Learning",
+        "youtube": "cy6RinIoteM"
+      },
+      {
+        "id": 5,
+        "name": "The Data Science Process",
+        "youtube": "xX66AYbEJJY"
+      },
+      {
+        "id": 6,
+        "name": "Common Types of Data",
+        "youtube": "11Hcp1ts494"
+      },
+      {
+        "id": 7,
+        "name": "Tabular Data",
+        "youtube": "BCl4VaChdPk"
+      },
+      {
+        "id": 8,
+        "name": "Tabular Data",
+        "youtube": "DBML5tG138I"
+      },
+      {
+        "id": 9,
+        "name": "Scaling Data",
+        "youtube": "NyrL6ein-pw"
+      },
+      {
+        "id": 10,
+        "name": "Encoding Categorical Data",
+        "youtube": "n2uIykJkJ44"
+      },
+      {
+        "id": 11,
+        "name": "Image Data",
+        "youtube": "ZTID77K760Y"
+      },
+      {
+        "id": 12,
+        "name": "The Whole Pipeline",
+        "youtube": "Y5C-fVOEj8g"
+      },
+      {
+        "id": 13,
+        "name": "Two Perspectives on ML",
+        "youtube": "-STuxIvMhHo"
+      },
+      {
+        "id": 14,
+        "name": "The Computer Science Perspective",
+        "youtube": "4uHZkcRJ_J8"
+      },
+      {
+        "id": 15,
+        "name": "The Statistical Perspective",
+        "youtube": "mRjQmAKpwgs"
+      },
+      {
+        "id": 16,
+        "name": "The Tools for Machine Learning",
+        "youtube": "jj_06syZGEg"
+      },
+      {
+        "id": 17,
+        "name": "Libraries for Machine Learning",
+        "youtube": "M9zUzwhIto4"
+      },
+      {
+        "id": 18,
+        "name": "Cloud Services for Machine Learning",
+        "youtube": "YGssK4vvQak"
+      },
+      {
+        "id": 18,
+        "name": "A Brief Intro to Azure Machine Learning",
+        "youtube": "e2-yhSuxVMQ"
+      },
+      {
+        "id": 19,
+        "name": "Models vs. Algorithms",
+        "youtube": "rnKuhPp-9AU"
+      },
+      {
+        "id": 20,
+        "name": "Linear Regression",
+        "youtube": "RsQEl8zay3Y"
+      },
+      {
+        "id": 21,
+        "name": "Walkthrough: Train a Linear Regression Model",
+        "youtube": "-UgmbgLY5fc"
+      },
+      {
+        "id": 22,
+        "name": "Learning a function",
+        "youtube": "kbdMEfNf2eQ"
+      },
+      {
+        "id": 23,
+        "name": "Parametric vs. Non-parametric",
+        "youtube": "t9tQF3nn54M"
+      },
+      {
+        "id": 24,
+        "name": "Classical ML vs. Deep Learning",
+        "youtube": "BYFfpR0thCA"
+      },
+      {
+        "id": 25,
+        "name": "Approaches to Machine Learning",
+        "youtube": "2_JMdUc0D0c"
+      },
+      {
+        "id": 26,
+        "name": "The Trade-Offs",
+        "youtube": "UC8i4--WQoA"
+      },
+      {
+        "id": 27,
+        "name": "Overfitting vs. Underfitting",
+        "youtube": "X1DotdITKyE"
+      },
+      {
+        "id": 28,
+        "name": "Bias vs. Variance Trade-off",
+        "youtube": "eAxyENSV7JE"
+      },
+      {
+        "id": 29,
+        "name": "Lesson Summary",
+        "youtube": "Hoh74KrKh5k"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Lesson Overview",
+        "youtube": "Z6qaUHwrklk"
+      },
+      {
+        "id": 2,
+        "name": "Data Import and Transformation",
+        "youtube": "2UF0Lo3NDt0"
+      },
+      {
+        "id": 3,
+        "name": "Lab: Import, Transform, and Export Data",
+        "youtube": "LllJB5LQtb0"
+      },
+      {
+        "id": 4,
+        "name": "Managing Data",
+        "youtube": "b0J1SHbi9pE"
+      },
+      {
+        "id": 5,
+        "name": "Datastores vs. Datasets",
+        "youtube": "uUqlBoG0bPc"
+      },
+      {
+        "id": 6,
+        "name": "The Data Access Workflow",
+        "youtube": "S98RHa5Eioc"
+      },
+      {
+        "id": 7,
+        "name": "More About Datasets",
+        "youtube": "o5CIakh9Xtg"
+      },
+      {
+        "id": 8,
+        "name": "More About Datasets (2)",
+        "youtube": "l8OetSHc754"
+      },
+      {
+        "id": 9,
+        "name": "Lab: Create and Version a Dataset",
+        "youtube": "aIvMainDa1E"
+      }
+    ]
+  }
+]

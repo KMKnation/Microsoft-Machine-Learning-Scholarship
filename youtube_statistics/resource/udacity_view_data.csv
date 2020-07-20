@@ -1,0 +1,112 @@
+date,lesson,views,name
+2020/07/17 21:09:11,1-0,8472,Welcome to Udacity
+2020/07/17 21:09:11,1-1,4889,Why Machine Learning?
+2020/07/17 21:09:11,1-2,4460,Course Overview
+2020/07/17 21:09:11,2-0,4575,Lesson Overview
+2020/07/17 21:09:11,2-1,4095,What is Machine Learning?
+2020/07/17 21:09:11,2-2,3756,Applications of Machine Learning
+2020/07/17 21:09:11,2-3,3411,Brief History of Machine Learning
+2020/07/17 21:09:11,2-4,3068,The Data Science Process
+2020/07/17 21:09:11,2-5,2896,Common Types of Data
+2020/07/17 21:09:11,2-6,2455,Tabular Data
+2020/07/17 21:09:11,2-7,2407,Tabular Data
+2020/07/17 21:09:11,2-8,2527,Scaling Data
+2020/07/17 21:09:11,2-9,2433,Encoding Categorical Data
+2020/07/17 21:09:11,2-10,2418,Image Data
+2020/07/17 21:09:11,2-11,2450,The Whole Pipeline
+2020/07/17 21:09:11,2-12,2447,Two Perspectives on ML
+2020/07/17 21:09:11,2-13,2312,The Computer Science Perspective
+2020/07/17 21:09:11,2-14,2227,The Statistical Perspective
+2020/07/17 21:09:11,2-15,2335,The Tools for Machine Learning
+2020/07/17 21:09:11,2-16,2176,Libraries for Machine Learning
+2020/07/17 21:09:11,2-17,2411,Cloud Services for Machine Learning
+2020/07/17 21:09:11,2-18,2227,A Brief Intro to Azure Machine Learning
+2020/07/17 21:09:11,2-19,2128,Models vs. Algorithms
+2020/07/17 21:09:11,2-20,2174,Linear Regression
+2020/07/17 21:09:11,2-21,2255,Walkthrough: Train a Linear Regression Model
+2020/07/17 21:09:11,2-22,1586,Learning a function
+2020/07/17 21:09:11,2-23,1651,Parametric vs. Non-parametric
+2020/07/17 21:09:11,2-24,1560,Classical ML vs. Deep Learning
+2020/07/17 21:09:11,2-25,1596,Approaches to Machine Learning
+2020/07/17 21:09:11,2-26,1574,The Trade-Offs
+2020/07/17 21:09:11,2-27,1459,Overfitting vs. Underfitting
+2020/07/17 21:09:11,2-28,1427,Bias vs. Variance Trade-off
+2020/07/17 21:09:11,2-29,1497,Lesson Summary
+2020/07/18 23:11:43,1-0,8562,Welcome to Udacity
+2020/07/18 23:11:43,1-1,4960,Why Machine Learning?
+2020/07/18 23:11:43,1-2,4530,Course Overview
+2020/07/18 23:11:43,2-0,4665,Lesson Overview
+2020/07/18 23:11:43,2-1,4191,What is Machine Learning?
+2020/07/18 23:11:43,2-2,3862,Applications of Machine Learning
+2020/07/18 23:11:43,2-3,3508,Brief History of Machine Learning
+2020/07/18 23:11:43,2-4,3178,The Data Science Process
+2020/07/18 23:11:43,2-5,3014,Common Types of Data
+2020/07/18 23:11:43,2-6,2558,Tabular Data
+2020/07/18 23:11:43,2-7,2506,Tabular Data
+2020/07/18 23:11:43,2-8,2635,Scaling Data
+2020/07/18 23:11:43,2-9,2556,Encoding Categorical Data
+2020/07/18 23:11:43,2-10,2547,Image Data
+2020/07/18 23:11:43,2-11,2566,The Whole Pipeline
+2020/07/18 23:11:43,2-12,2571,Two Perspectives on ML
+2020/07/18 23:11:43,2-13,2436,The Computer Science Perspective
+2020/07/18 23:11:43,2-14,2340,The Statistical Perspective
+2020/07/18 23:11:43,2-15,2469,The Tools for Machine Learning
+2020/07/18 23:11:43,2-16,2294,Libraries for Machine Learning
+2020/07/18 23:11:43,2-17,2548,Cloud Services for Machine Learning
+2020/07/18 23:11:43,2-18,2347,A Brief Intro to Azure Machine Learning
+2020/07/18 23:11:43,2-19,2261,Models vs. Algorithms
+2020/07/18 23:11:43,2-20,2331,Linear Regression
+2020/07/18 23:11:43,2-21,2454,Walkthrough: Train a Linear Regression Model
+2020/07/18 23:11:43,2-22,1741,Learning a function
+2020/07/18 23:11:43,2-23,1812,Parametric vs. Non-parametric
+2020/07/18 23:11:43,2-24,1723,Classical ML vs. Deep Learning
+2020/07/18 23:11:43,2-25,1779,Approaches to Machine Learning
+2020/07/18 23:11:43,2-26,1754,The Trade-Offs
+2020/07/18 23:11:43,2-27,1615,Overfitting vs. Underfitting
+2020/07/18 23:11:43,2-28,1580,Bias vs. Variance Trade-off
+2020/07/18 23:11:43,2-29,1669,Lesson Summary
+2020/07/18 23:11:43,3-0,1688,Lesson Overview
+2020/07/18 23:11:43,3-1,1545,Data Import and Transformation
+2020/07/18 23:11:43,3-2,1463,"Lab: Import, Transform, and Export Data"
+2020/07/19 19:36:05,1-0,8606,Welcome to Udacity
+2020/07/19 19:36:05,1-1,5001,Why Machine Learning?
+2020/07/19 19:36:05,1-2,4571,Course Overview
+2020/07/19 19:36:05,2-0,4727,Lesson Overview
+2020/07/19 19:36:05,2-1,4248,What is Machine Learning?
+2020/07/19 19:36:05,2-2,3922,Applications of Machine Learning
+2020/07/19 19:36:05,2-3,3569,Brief History of Machine Learning
+2020/07/19 19:36:05,2-4,3236,The Data Science Process
+2020/07/19 19:36:05,2-5,3081,Common Types of Data
+2020/07/19 19:36:05,2-6,2625,Tabular Data
+2020/07/19 19:36:05,2-7,2575,Tabular Data
+2020/07/19 19:36:05,2-8,2712,Scaling Data
+2020/07/19 19:36:05,2-9,2647,Encoding Categorical Data
+2020/07/19 19:36:05,2-10,2640,Image Data
+2020/07/19 19:36:05,2-11,2649,The Whole Pipeline
+2020/07/19 19:36:05,2-12,2669,Two Perspectives on ML
+2020/07/19 19:36:05,2-13,2537,The Computer Science Perspective
+2020/07/19 19:36:05,2-14,2427,The Statistical Perspective
+2020/07/19 19:36:05,2-15,2558,The Tools for Machine Learning
+2020/07/19 19:36:05,2-16,2381,Libraries for Machine Learning
+2020/07/19 19:36:05,2-17,2655,Cloud Services for Machine Learning
+2020/07/19 19:36:05,2-18,2453,A Brief Intro to Azure Machine Learning
+2020/07/19 19:36:05,2-19,2363,Models vs. Algorithms
+2020/07/19 19:36:05,2-20,2447,Linear Regression
+2020/07/19 19:36:05,2-21,2598,Walkthrough: Train a Linear Regression Model
+2020/07/19 19:36:05,2-22,1852,Learning a function
+2020/07/19 19:36:05,2-23,1926,Parametric vs. Non-parametric
+2020/07/19 19:36:05,2-24,1833,Classical ML vs. Deep Learning
+2020/07/19 19:36:05,2-25,1902,Approaches to Machine Learning
+2020/07/19 19:36:05,2-26,1880,The Trade-Offs
+2020/07/19 19:36:05,2-27,1734,Overfitting vs. Underfitting
+2020/07/19 19:36:05,2-28,1704,Bias vs. Variance Trade-off
+2020/07/19 19:36:05,2-29,1790,Lesson Summary
+2020/07/19 19:36:05,3-0,1828,Lesson Overview
+2020/07/19 19:36:05,3-1,1682,Data Import and Transformation
+2020/07/19 19:36:05,3-2,1613,"Lab: Import, Transform, and Export Data"
+2020/07/19 19:36:05,3-3,1433,Managing Data
+2020/07/19 19:36:05,3-4,1227,Datastores vs. Datasets
+2020/07/19 19:36:05,3-5,1262,The Data Access Workflow
+2020/07/19 19:36:05,3-6,1222,More About Datasets
+2020/07/19 19:36:05,3-7,1061,More About Datasets (2)
+2020/07/19 19:36:05,3-8,1090,Lab: Create and Version a Dataset
