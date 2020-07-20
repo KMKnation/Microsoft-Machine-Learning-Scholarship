@@ -191,6 +191,36 @@
         "id": 3,
         "name": "Lab: Import, Transform, and Export Data",
         "youtube": "LllJB5LQtb0"
+      },
+      {
+        "id": 4,
+        "name": "Managing Data",
+        "youtube": "b0J1SHbi9pE"
+      },
+      {
+        "id": 5,
+        "name": "Datastores vs. Datasets",
+        "youtube": "uUqlBoG0bPc"
+      },
+      {
+        "id": 6,
+        "name": "The Data Access Workflow",
+        "youtube": "S98RHa5Eioc"
+      },
+      {
+        "id": 7,
+        "name": "More About Datasets",
+        "youtube": "o5CIakh9Xtg"
+      },
+      {
+        "id": 8,
+        "name": "More About Datasets (2)",
+        "youtube": "l8OetSHc754"
+      },
+      {
+        "id": 9,
+        "name": "Lab: Create and Version a Dataset",
+        "youtube": "aIvMainDa1E"
       }
     ]
   }
