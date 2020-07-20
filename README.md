@@ -65,5 +65,5 @@
 - D8: L3 10 to 16
 - Learned the importance of feature engineering and feature selection and completed on lab on it
 - Today's stats
-      ![Kick start meeting](resource/plot3.png)
+      ![Kick start meeting](youtube_statistics/screenshots/plot4.png)
   
