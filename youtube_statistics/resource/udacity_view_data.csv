@@ -160,3 +160,59 @@ date,lesson,views,name
 2020/07/20 20:50:24,3-14,1089,Feature Selection (2)
 2020/07/20 20:50:24,3-15,1080,Walkthrough: Engineer and Select Features
 2020/07/20 20:50:24,3-16,898,Walkthrough: Engineer and Select Features (2)
+2020/07/21 23:24:23,1-0,8777,Welcome to Udacity
+2020/07/21 23:24:23,1-1,5149,Why Machine Learning?
+2020/07/21 23:24:23,1-2,4730,Course Overview
+2020/07/21 23:24:23,2-0,4913,Lesson Overview
+2020/07/21 23:24:23,2-1,4429,What is Machine Learning?
+2020/07/21 23:24:23,2-2,4100,Applications of Machine Learning
+2020/07/21 23:24:23,2-3,3749,Brief History of Machine Learning
+2020/07/21 23:24:23,2-4,3424,The Data Science Process
+2020/07/21 23:24:23,2-5,3283,Common Types of Data
+2020/07/21 23:24:23,2-6,2801,Tabular Data
+2020/07/21 23:24:23,2-7,2739,Tabular Data
+2020/07/21 23:24:23,2-8,2911,Scaling Data
+2020/07/21 23:24:23,2-9,2844,Encoding Categorical Data
+2020/07/21 23:24:23,2-10,2837,Image Data
+2020/07/21 23:24:23,2-11,2831,The Whole Pipeline
+2020/07/21 23:24:23,2-12,2866,Two Perspectives on ML
+2020/07/21 23:24:23,2-13,2720,The Computer Science Perspective
+2020/07/21 23:24:23,2-14,2609,The Statistical Perspective
+2020/07/21 23:24:23,2-15,2759,The Tools for Machine Learning
+2020/07/21 23:24:23,2-16,2577,Libraries for Machine Learning
+2020/07/21 23:24:23,2-17,2865,Cloud Services for Machine Learning
+2020/07/21 23:24:23,2-18,2647,A Brief Intro to Azure Machine Learning
+2020/07/21 23:24:23,2-19,2552,Models vs. Algorithms
+2020/07/21 23:24:23,2-20,2701,Linear Regression
+2020/07/21 23:24:23,2-21,2902,Walkthrough: Train a Linear Regression Model
+2020/07/21 23:24:23,2-22,2072,Learning a function
+2020/07/21 23:24:23,2-23,2181,Parametric vs. Non-parametric
+2020/07/21 23:24:23,2-24,2063,Classical ML vs. Deep Learning
+2020/07/21 23:24:23,2-25,2146,Approaches to Machine Learning
+2020/07/21 23:24:23,2-26,2119,The Trade-Offs
+2020/07/21 23:24:23,2-27,1945,Overfitting vs. Underfitting
+2020/07/21 23:24:23,2-28,1912,Bias vs. Variance Trade-off
+2020/07/21 23:24:23,2-29,2015,Lesson Summary
+2020/07/21 23:24:23,3-0,2147,Lesson Overview
+2020/07/21 23:24:23,3-1,1992,Data Import and Transformation
+2020/07/21 23:24:23,3-2,1929,"Lab: Import, Transform, and Export Data"
+2020/07/21 23:24:23,3-3,1748,Managing Data
+2020/07/21 23:24:23,3-4,1504,Datastores vs. Datasets
+2020/07/21 23:24:23,3-5,1535,The Data Access Workflow
+2020/07/21 23:24:23,3-6,1506,More About Datasets
+2020/07/21 23:24:23,3-7,1311,More About Datasets (2)
+2020/07/21 23:24:23,3-8,1368,Lab: Create and Version a Dataset
+2020/07/21 23:24:23,3-9,1285,Introducing Features
+2020/07/21 23:24:23,3-10,1400,Feature Engineering
+2020/07/21 23:24:23,3-11,1271,Examples of Feature Engineering Tasks
+2020/07/21 23:24:23,3-12,1238,Summary of Feature Engineering Approaches by Data Type
+2020/07/21 23:24:23,3-13,1281,Feature Selection
+2020/07/21 23:24:23,3-14,1201,Feature Selection (2)
+2020/07/21 23:24:23,3-15,1202,Walkthrough: Engineer and Select Features
+2020/07/21 23:24:23,3-16,999,Walkthrough: Engineer and Select Features (2)
+2020/07/21 23:24:23,3-17,1174,Data Drift
+2020/07/21 23:24:23,3-18,1084,Monitoring for Data Drift
+2020/07/21 23:24:23,3-19,1044,Model Training Basics
+2020/07/21 23:24:23,3-20,1111,Model Training in Azure Machine Learning
+2020/07/21 23:24:23,3-21,1054,Taxonomy of Azure Machine Learning
+2020/07/21 23:24:23,3-22,986,Training Classifiers

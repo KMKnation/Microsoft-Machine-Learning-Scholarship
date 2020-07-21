@@ -261,6 +261,36 @@
         "id": 17,
         "name": "Walkthrough: Engineer and Select Features (2)",
         "youtube": "KpO1Wa_TvT4"
+      },
+      {
+        "id": 18,
+        "name": "Data Drift",
+        "youtube": "QIAiteCikwI"
+      },
+      {
+        "id": 19,
+        "name": "Monitoring for Data Drift",
+        "youtube": "lvs2_TL1sw8"
+      },
+      {
+        "id": 20,
+        "name": "Model Training Basics",
+        "youtube": "Ar9fKCgMT6A"
+      },
+      {
+        "id": 21,
+        "name": "Model Training in Azure Machine Learning",
+        "youtube": "lBXm8TmGqDA"
+      },
+      {
+        "id": 22,
+        "name": "Taxonomy of Azure Machine Learning",
+        "youtube": "D8Gw2Cbv2MY"
+      },
+      {
+        "id": 23,
+        "name": "Training Classifiers",
+        "youtube": "FyvqRyMoWRA"
       }
     ]
   }

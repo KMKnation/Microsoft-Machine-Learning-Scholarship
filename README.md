@@ -70,7 +70,9 @@
 ##### 21, July 2020
 - D9: L3 up to 20
 - Learned Data drift and model training process 
-- Learned Azure Model Training entities
+- Learned Taxonomy of Azure Machine Learning
+- Attended group meeting of #sg_connecting_the_dots_with_ml on Social
+- Attended last 10 minutes of group meeting of #sg_connecting_the_dots_with_ml on HealthCare
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot5.png)
   
