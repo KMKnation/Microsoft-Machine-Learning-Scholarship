@@ -66,4 +66,11 @@
 - Learned the importance of feature engineering and feature selection and completed on lab on it
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot4.png)
+
+##### 21, July 2020
+- D9: L3 up to 20
+- Learned Data drift and model training process 
+- Learned Azure Model Training entities
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot5.png)
   
