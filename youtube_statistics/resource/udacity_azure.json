@@ -291,6 +291,26 @@
         "id": 23,
         "name": "Training Classifiers",
         "youtube": "FyvqRyMoWRA"
+      },
+      {
+        "id": 24,
+        "name": "Training Regressors",
+        "youtube": "qpmlvrQWZ6U"
+      },
+      {
+        "id": 25,
+        "name": "Evaluating Model Performance",
+        "youtube": "c_8sEPf0Cg0"
+      },
+      {
+        "id": 26,
+        "name": "Evaluation Metrics for Classification",
+        "youtube": "rwvFVe3CbXs"
+      },
+      {
+        "id": 27,
+        "name": "Model Evaluation Charts",
+        "youtube": "sG76ZVt0tS4"
       }
     ]
   }

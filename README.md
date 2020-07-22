@@ -75,4 +75,12 @@
 - Attended last 10 minutes of group meeting of #sg_connecting_the_dots_with_ml on HealthCare
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot5.png)
+
+##### 22, July 2020
+- D10: L3 up to 25
+- Created one process diagram for Semantic Analysis on text data
+- Learned Model Evaluation techniques.
+- Diffrentiate between Receiver Operating Characteristics (ROC) and Area Under the Curve (AUC)
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot6.png)
   

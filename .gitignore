@@ -4,3 +4,4 @@
 /course
 client_secret.json
 __pycache__/
+.ipynb_checkpoints/
