@@ -84,3 +84,10 @@
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot6.png)
   
+##### 23, July 2020
+- D11: Just learned one lecture 3.26 because next chapter is important as that is the thing that we are going to so many times.
+- Meeting with project mates for updates
+- Created one notebook for EDA
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot7.png)
+  
