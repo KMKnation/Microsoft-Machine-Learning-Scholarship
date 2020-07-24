@@ -1,6 +1,7 @@
 import os
 
 RESOURCE_DIR = os.path.join(os.getcwd(), 'resource')
+SCREENSHOT_DIR = os.path.join(os.getcwd(), 'screenshots')
 
 if not os.path.exists(RESOURCE_DIR):
     os.mkdir(RESOURCE_DIR)
