@@ -87,8 +87,17 @@
 ##### 23, July 2020
 - D11: Just learned one lecture 3.26 because next chapter is important as that is the thing that we are going to so many times.
 - Meeting with project mates for updates
+      ![Kick start meeting](youtube_statistics/screenshots/Screenshot from 2020-07-23 20-28-58.png)
 - Created one notebook for EDA
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot7.png)
+ 
+ 
+##### 24, July 2020
+- D12: L3 upto 30
+- Created new plots based on historical data collected through daily stats
+- Historical Udacity Views Plot
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-24-07-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot8.png)
   
-https://dfrieds.com/data-visualizations/visualize-historical-time-comparisons.html
