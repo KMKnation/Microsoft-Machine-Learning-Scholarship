@@ -326,6 +326,16 @@
         "id": 30,
         "name": "Strength in Numbers",
         "youtube": "c9PdpRJ-djc"
+      },
+      {
+        "id": 31,
+        "name": "Ensemble Learning",
+        "youtube": "40iS8bfeFv8"
+      },
+      {
+        "id": 32,
+        "name": "Strength in Variety: Automated ML",
+        "youtube": "msaXELuThsY"
       }
     ]
   }

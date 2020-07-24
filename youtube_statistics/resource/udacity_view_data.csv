@@ -337,3 +337,68 @@ date,lesson,views,name
 2020/07/23 19:08:09,3-25,1129,Evaluation Metrics for Classification
 2020/07/23 19:08:09,3-26,1052,Model Evaluation Charts
 2020/07/23 19:08:09,3-27,1068,Evaluation Metrics for Regression
+2020/07/24 20:55:39,1-0,8938,Welcome to Udacity
+2020/07/24 20:55:39,1-1,5260,Why Machine Learning?
+2020/07/24 20:55:39,1-2,4835,Course Overview
+2020/07/24 20:55:39,2-0,5069,Lesson Overview
+2020/07/24 20:55:39,2-1,4593,What is Machine Learning?
+2020/07/24 20:55:39,2-2,4274,Applications of Machine Learning
+2020/07/24 20:55:39,2-3,3936,Brief History of Machine Learning
+2020/07/24 20:55:39,2-4,3624,The Data Science Process
+2020/07/24 20:55:39,2-5,3474,Common Types of Data
+2020/07/24 20:55:39,2-6,2965,Tabular Data
+2020/07/24 20:55:39,2-7,2895,Tabular Data
+2020/07/24 20:55:39,2-8,3098,Scaling Data
+2020/07/24 20:55:39,2-9,3031,Encoding Categorical Data
+2020/07/24 20:55:39,2-10,3051,Image Data
+2020/07/24 20:55:39,2-11,3027,The Whole Pipeline
+2020/07/24 20:55:39,2-12,3051,Two Perspectives on ML
+2020/07/24 20:55:39,2-13,2917,The Computer Science Perspective
+2020/07/24 20:55:39,2-14,2786,The Statistical Perspective
+2020/07/24 20:55:39,2-15,2955,The Tools for Machine Learning
+2020/07/24 20:55:39,2-16,2758,Libraries for Machine Learning
+2020/07/24 20:55:39,2-17,3089,Cloud Services for Machine Learning
+2020/07/24 20:55:39,2-18,2837,A Brief Intro to Azure Machine Learning
+2020/07/24 20:55:39,2-19,2732,Models vs. Algorithms
+2020/07/24 20:55:39,2-20,2904,Linear Regression
+2020/07/24 20:55:39,2-21,3180,Walkthrough: Train a Linear Regression Model
+2020/07/24 20:55:39,2-22,2267,Learning a function
+2020/07/24 20:55:39,2-23,2395,Parametric vs. Non-parametric
+2020/07/24 20:55:39,2-24,2263,Classical ML vs. Deep Learning
+2020/07/24 20:55:39,2-25,2361,Approaches to Machine Learning
+2020/07/24 20:55:39,2-26,2338,The Trade-Offs
+2020/07/24 20:55:39,2-27,2134,Overfitting vs. Underfitting
+2020/07/24 20:55:39,2-28,2112,Bias vs. Variance Trade-off
+2020/07/24 20:55:39,2-29,2211,Lesson Summary
+2020/07/24 20:55:39,3-0,2414,Lesson Overview
+2020/07/24 20:55:39,3-1,2265,Data Import and Transformation
+2020/07/24 20:55:39,3-2,2201,"Lab: Import, Transform, and Export Data"
+2020/07/24 20:55:39,3-3,2006,Managing Data
+2020/07/24 20:55:39,3-4,1724,Datastores vs. Datasets
+2020/07/24 20:55:39,3-5,1765,The Data Access Workflow
+2020/07/24 20:55:39,3-6,1746,More About Datasets
+2020/07/24 20:55:39,3-7,1527,More About Datasets (2)
+2020/07/24 20:55:39,3-8,1600,Lab: Create and Version a Dataset
+2020/07/24 20:55:39,3-9,1524,Introducing Features
+2020/07/24 20:55:39,3-10,1674,Feature Engineering
+2020/07/24 20:55:39,3-11,1514,Examples of Feature Engineering Tasks
+2020/07/24 20:55:39,3-12,1466,Summary of Feature Engineering Approaches by Data Type
+2020/07/24 20:55:39,3-13,1554,Feature Selection
+2020/07/24 20:55:39,3-14,1468,Feature Selection (2)
+2020/07/24 20:55:39,3-15,1480,Walkthrough: Engineer and Select Features
+2020/07/24 20:55:39,3-16,1216,Walkthrough: Engineer and Select Features (2)
+2020/07/24 20:55:39,3-17,1466,Data Drift
+2020/07/24 20:55:39,3-18,1378,Monitoring for Data Drift
+2020/07/24 20:55:39,3-19,1336,Model Training Basics
+2020/07/24 20:55:39,3-20,1410,Model Training in Azure Machine Learning
+2020/07/24 20:55:39,3-21,1338,Taxonomy of Azure Machine Learning
+2020/07/24 20:55:39,3-22,1269,Training Classifiers
+2020/07/24 20:55:39,3-23,1193,Training Regressors
+2020/07/24 20:55:39,3-24,1158,Evaluating Model Performance
+2020/07/24 20:55:39,3-25,1230,Evaluation Metrics for Classification
+2020/07/24 20:55:39,3-26,1141,Model Evaluation Charts
+2020/07/24 20:55:39,3-27,1162,Evaluation Metrics for Regression
+2020/07/24 20:55:39,3-28,1082,Walkthrough: Train and Evaluate a Model
+2020/07/24 20:55:39,3-29,1042,Strength in Numbers
+2020/07/24 20:55:39,3-30,988,Ensemble Learning
+2020/07/24 20:55:39,3-31,927,Strength in Variety: Automated ML

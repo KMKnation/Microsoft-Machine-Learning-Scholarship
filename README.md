@@ -94,8 +94,10 @@
  
  
 ##### 24, July 2020
-- D12: L3 upto 30
+- D12: L3 upto 30 (Ensemble Learning)
 - Created new plots based on historical data collected through daily stats
+- Total Counf of Views On Each Day (Not accurate as I am still on 3rd lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/24-07-2020-totalViewOnDayByDay.png)      
 - Historical Udacity Views Plot
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-24-07-2020.png)      
 - Today's stats

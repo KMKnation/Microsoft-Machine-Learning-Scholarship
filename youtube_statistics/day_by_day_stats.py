@@ -24,7 +24,8 @@ FIG_NAME = os.path.join(PLOT_DIR, str(PLOT_NUMBER)+'-totalViewOnDayByDay.png')
 print(FIG_NAME)
 sumDf = totalViewOnDayByDay(df)
 sumDf.plot(kind='bar', figsize=(17, 10),  rot=0)
-plt.savefig(FIG_NAME)
+plt.title("Total Views Count per Day  | Udacity")
+plt.savefig(FIG_NAME, bbox_inches='tight')
 # plt.show()
 
 
@@ -61,11 +62,11 @@ print(df.head())
 df_pivoted = df.pivot(index='lesson', columns='date', values='views')
 
 df_pivoted.plot(kind='bar', figsize=(40, 10), color=colors, rot=0, width=0.7,align='center')
-plt.title("Historical Count of Views: Day by Day Comparison | Udacity", y=1.513, fontsize=22)
+plt.title("Historical Count of Views: Day by Day Comparison | Udacity")
 plt.xlabel("Lessons", labelpad=16)
 plt.ylabel("Count", labelpad=16)
 
 FIG_NAME = os.path.join(PLOT_DIR, 'Historical-'+str(PLOT_NUMBER)+'.png')
-plt.savefig(FIG_NAME, dpi=300)
+plt.savefig(FIG_NAME, dpi=300, bbox_inches='tight')
 plt.show()
 #
