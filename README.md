@@ -91,3 +91,4 @@
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot7.png)
   
+https://dfrieds.com/data-visualizations/visualize-historical-time-comparisons.html
