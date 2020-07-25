@@ -106,6 +106,10 @@
  
 ##### 25, July 2020
 - D13: Completed the pending labs of L3
+- EDA on environ email dataset for our semantic analysis project  
+  GitHub : [Email Semantic Analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis/blob/master/Exploratory%20Data%20Analysis_mayur.ipynb)
+- Historical Udacity Views Plot
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-24-07-2020.png)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot9.png)
   
