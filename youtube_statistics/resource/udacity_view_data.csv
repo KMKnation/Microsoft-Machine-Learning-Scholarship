@@ -402,3 +402,71 @@ date,lesson,views,name
 2020/07/24 20:55:39,3-29,1042,Strength in Numbers
 2020/07/24 20:55:39,3-30,988,Ensemble Learning
 2020/07/24 20:55:39,3-31,927,Strength in Variety: Automated ML
+2020/07/25 15:48:01,1-0,8968,Welcome to Udacity
+2020/07/25 15:48:01,1-1,5282,Why Machine Learning?
+2020/07/25 15:48:01,1-2,4855,Course Overview
+2020/07/25 15:48:01,2-0,5099,Lesson Overview
+2020/07/25 15:48:01,2-1,4625,What is Machine Learning?
+2020/07/25 15:48:01,2-2,4309,Applications of Machine Learning
+2020/07/25 15:48:01,2-3,3969,Brief History of Machine Learning
+2020/07/25 15:48:01,2-4,3658,The Data Science Process
+2020/07/25 15:48:01,2-5,3504,Common Types of Data
+2020/07/25 15:48:01,2-6,2996,Tabular Data
+2020/07/25 15:48:01,2-7,2925,Tabular Data
+2020/07/25 15:48:01,2-8,3131,Scaling Data
+2020/07/25 15:48:01,2-9,3069,Encoding Categorical Data
+2020/07/25 15:48:01,2-10,3087,Image Data
+2020/07/25 15:48:01,2-11,3062,The Whole Pipeline
+2020/07/25 15:48:01,2-12,3089,Two Perspectives on ML
+2020/07/25 15:48:01,2-13,2949,The Computer Science Perspective
+2020/07/25 15:48:01,2-14,2816,The Statistical Perspective
+2020/07/25 15:48:01,2-15,2991,The Tools for Machine Learning
+2020/07/25 15:48:01,2-16,2803,Libraries for Machine Learning
+2020/07/25 15:48:01,2-17,3138,Cloud Services for Machine Learning
+2020/07/25 15:48:01,2-18,2879,A Brief Intro to Azure Machine Learning
+2020/07/25 15:48:01,2-19,2774,Models vs. Algorithms
+2020/07/25 15:48:01,2-20,2950,Linear Regression
+2020/07/25 15:48:01,2-21,3238,Walkthrough: Train a Linear Regression Model
+2020/07/25 15:48:01,2-22,2310,Learning a function
+2020/07/25 15:48:01,2-23,2437,Parametric vs. Non-parametric
+2020/07/25 15:48:01,2-24,2304,Classical ML vs. Deep Learning
+2020/07/25 15:48:01,2-25,2409,Approaches to Machine Learning
+2020/07/25 15:48:01,2-26,2384,The Trade-Offs
+2020/07/25 15:48:01,2-27,2179,Overfitting vs. Underfitting
+2020/07/25 15:48:01,2-28,2157,Bias vs. Variance Trade-off
+2020/07/25 15:48:01,2-29,2262,Lesson Summary
+2020/07/25 15:48:01,3-0,2482,Lesson Overview
+2020/07/25 15:48:01,3-1,2338,Data Import and Transformation
+2020/07/25 15:48:01,3-2,2267,"Lab: Import, Transform, and Export Data"
+2020/07/25 15:48:01,3-3,2073,Managing Data
+2020/07/25 15:48:01,3-4,1778,Datastores vs. Datasets
+2020/07/25 15:48:01,3-5,1824,The Data Access Workflow
+2020/07/25 15:48:01,3-6,1797,More About Datasets
+2020/07/25 15:48:01,3-7,1571,More About Datasets (2)
+2020/07/25 15:48:01,3-8,1651,Lab: Create and Version a Dataset
+2020/07/25 15:48:01,3-9,1570,Introducing Features
+2020/07/25 15:48:01,3-10,1732,Feature Engineering
+2020/07/25 15:48:01,3-11,1557,Examples of Feature Engineering Tasks
+2020/07/25 15:48:01,3-12,1507,Summary of Feature Engineering Approaches by Data Type
+2020/07/25 15:48:01,3-13,1597,Feature Selection
+2020/07/25 15:48:01,3-14,1513,Feature Selection (2)
+2020/07/25 15:48:01,3-15,1531,Walkthrough: Engineer and Select Features
+2020/07/25 15:48:01,3-16,1255,Walkthrough: Engineer and Select Features (2)
+2020/07/25 15:48:01,3-17,1513,Data Drift
+2020/07/25 15:48:01,3-18,1422,Monitoring for Data Drift
+2020/07/25 15:48:01,3-19,1393,Model Training Basics
+2020/07/25 15:48:01,3-20,1458,Model Training in Azure Machine Learning
+2020/07/25 15:48:01,3-21,1389,Taxonomy of Azure Machine Learning
+2020/07/25 15:48:01,3-22,1314,Training Classifiers
+2020/07/25 15:48:01,3-23,1242,Training Regressors
+2020/07/25 15:48:01,3-24,1208,Evaluating Model Performance
+2020/07/25 15:48:01,3-25,1288,Evaluation Metrics for Classification
+2020/07/25 15:48:01,3-26,1198,Model Evaluation Charts
+2020/07/25 15:48:01,3-27,1222,Evaluation Metrics for Regression
+2020/07/25 15:48:01,3-28,1146,Walkthrough: Train and Evaluate a Model
+2020/07/25 15:48:01,3-29,1098,Strength in Numbers
+2020/07/25 15:48:01,3-30,1045,Ensemble Learning
+2020/07/25 15:48:01,3-31,981,Strength in Variety: Automated ML
+2020/07/25 15:48:01,3-32,974,Walkthrough: Train a Two-Class Boosted Decision Tree
+2020/07/25 15:48:01,3-33,964,Walkthrough: Train a Simple Classifier with Automated ML
+2020/07/25 15:48:01,3-34,895,Lesson Summary

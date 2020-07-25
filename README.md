@@ -102,4 +102,10 @@
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-24-07-2020.png)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot8.png)
+
+ 
+##### 25, July 2020
+- D12: Completed the pending labs of L3
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot9.png)
   
