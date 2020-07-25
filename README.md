@@ -105,7 +105,7 @@
 
  
 ##### 25, July 2020
-- D12: Completed the pending labs of L3
+- D13: Completed the pending labs of L3
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot9.png)
   
