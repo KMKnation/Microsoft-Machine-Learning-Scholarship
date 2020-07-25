@@ -336,6 +336,21 @@
         "id": 32,
         "name": "Strength in Variety: Automated ML",
         "youtube": "msaXELuThsY"
+      },
+      {
+        "id": 33,
+        "name": "Walkthrough: Train a Two-Class Boosted Decision Tree",
+        "youtube": "AhLfTUincPQ"
+      },
+      {
+        "id": 34,
+        "name": "Walkthrough: Train a Simple Classifier with Automated ML",
+        "youtube": "GQA96QHGfyE"
+      },
+      {
+        "id": 35,
+        "name": "Lesson Summary",
+        "youtube": "YV-WLroRscE"
       }
     ]
   }
