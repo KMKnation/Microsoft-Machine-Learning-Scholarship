@@ -80,6 +80,7 @@
 - D10: L3 up to 25
 - Created one process diagram for Semantic Analysis on text data
 - Learned Model Evaluation techniques.
+      ![Kick start meeting](youtube_statistics/screenshots/model_evaluation_metric.png)
 - Diffrentiate between Receiver Operating Characteristics (ROC) and Area Under the Curve (AUC)
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot6.png)
@@ -109,7 +110,16 @@
 - EDA on environ email dataset for our semantic analysis project  
   GitHub : [Email Semantic Analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis/blob/master/Exploratory%20Data%20Analysis_mayur.ipynb)
 - Historical Udacity Views Plot
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-24-07-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-25-07-2020.png)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot9.png)
+
+
+ 
+##### 26, July 2020
+- D14: L4 Started and completed upto 3
+- Historical Udacity Views Plot
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-26-07-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot10.png)
   

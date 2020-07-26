@@ -19,4 +19,8 @@ plt.title("Historical Count of Views: Day by Day Comparison", y=1.013, fontsize=
 plt.xlabel("Lessons", labelpad=16)
 plt.ylabel("Count [Passengers]", labelpad=16)
 
+df["period"] = df["date"].astype(str)  + ' ' + df["lessons"].astype(str)
+print(df.head())
+df.plot.barh(x='period', y='views')
+
 plt.show()
