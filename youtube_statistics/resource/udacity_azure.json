@@ -353,5 +353,24 @@
         "youtube": "YV-WLroRscE"
       }
     ]
+  },
+  {
+    "index": 4,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Lesson Overview",
+        "youtube": "JuhUEeomiL8"
+      },{
+        "id": 2,
+        "name": "Supervised Learning: Classification",
+        "youtube": "HXnLBA4OOsg"
+      },{
+        "id": 3,
+        "name": "Categories of Algorithms",
+        "youtube": "9mbrJjUEyEI"
+      }
+    ]
   }
 ]
+
