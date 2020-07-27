@@ -1,0 +1,192 @@
+1
+00:00:09,530 --> 00:00:14,280
+Hello and welcome to the Introduction to Machine Learning course.
+
+2
+00:00:14,280 --> 00:00:16,260
+I am Aniththa Umamahesan and I'm
+
+3
+00:00:16,260 --> 00:00:19,440
+a Program Manager on the Azure Machine Learning team here at Microsoft.
+
+4
+00:00:19,440 --> 00:00:22,120
+Let me introduce you to my team of instructors.
+
+5
+00:00:22,120 --> 00:00:24,420
+Thank you Ani. I'm Abraham Omorogbe.
+
+6
+00:00:24,420 --> 00:00:28,605
+I am also a Program Manager on the Azure Machine Learning team here at Microsoft.
+
+7
+00:00:28,605 --> 00:00:30,420
+Hi, I am Ciprian Jichici,
+
+8
+00:00:30,420 --> 00:00:33,090
+recognized as a Microsoft Regional Director and
+
+9
+00:00:33,090 --> 00:00:36,030
+most valuable professional in artificial intelligence.
+
+10
+00:00:36,030 --> 00:00:39,795
+I've been spending my last 20 years studying machine learning.
+
+11
+00:00:39,795 --> 00:00:44,660
+I'm Zoiner Tejada. I'm also recognized as a Microsoft Regional Director and MVP in AI,
+
+12
+00:00:44,660 --> 00:00:47,840
+and I spent my last 20 years working in data and AI.
+
+13
+00:00:47,840 --> 00:00:52,430
+This course provides an introduction to the fantastic world of machine learning.
+
+14
+00:00:52,430 --> 00:00:56,765
+Our aim is to provide a low code introductory approach to this topic.
+
+15
+00:00:56,765 --> 00:00:58,340
+You should consider the course as
+
+16
+00:00:58,340 --> 00:01:02,360
+a low friction introduction to more complex courses or nano degrees.
+
+17
+00:01:02,360 --> 00:01:04,145
+Throughout the course, we will use
+
+18
+00:01:04,145 --> 00:01:07,570
+Azure Machine Learning studio to run the examples and the labs.
+
+19
+00:01:07,570 --> 00:01:11,330
+We'll start by helping you understand the overall place of the field in
+
+20
+00:01:11,330 --> 00:01:15,190
+the broader context of computer science by taking you through the history,
+
+21
+00:01:15,190 --> 00:01:18,905
+prospective, approaches, challenges, essential tools,
+
+22
+00:01:18,905 --> 00:01:20,705
+and the fundamental processes.
+
+23
+00:01:20,705 --> 00:01:23,360
+Next we'll focus on core machine learning process.
+
+24
+00:01:23,360 --> 00:01:24,620
+Training a model.
+
+25
+00:01:24,620 --> 00:01:29,870
+The entire chain of task is covered from data important transformations to training,
+
+26
+00:01:29,870 --> 00:01:32,525
+validating, and evaluating the model.
+
+27
+00:01:32,525 --> 00:01:35,150
+This being an introductory course,
+
+28
+00:01:35,150 --> 00:01:37,385
+we focus on laying the foundations.
+
+29
+00:01:37,385 --> 00:01:39,500
+We will talk about both supervised,
+
+30
+00:01:39,500 --> 00:01:45,109
+like classification and regression and unsupervised, like clustering approaches.
+
+31
+00:01:45,109 --> 00:01:46,730
+Building on these basics,
+
+32
+00:01:46,730 --> 00:01:52,115
+more advanced techniques like ensemble learning and deep learning are also covered.
+
+33
+00:01:52,115 --> 00:01:56,990
+You won't miss either some of the best known specific cases of machine learning,
+
+34
+00:01:56,990 --> 00:02:00,365
+like recommendations, text classification,
+
+35
+00:02:00,365 --> 00:02:04,280
+anomaly detection, forecasting, or feature learning.
+
+36
+00:02:04,280 --> 00:02:07,970
+To make all these work at their best in the real world,
+
+37
+00:02:07,970 --> 00:02:11,480
+you will most likely need to deal with one or more sets of
+
+38
+00:02:11,480 --> 00:02:13,430
+managed services that enable
+
+39
+00:02:13,430 --> 00:02:17,464
+efficient and scalable approaches to data and model management,
+
+40
+00:02:17,464 --> 00:02:21,635
+compute resources allocation, and operationalization.
+
+41
+00:02:21,635 --> 00:02:24,140
+As we already mentioned in this course,
+
+42
+00:02:24,140 --> 00:02:30,065
+Azure Machine Learning will be used as an example of such a managed services platform.
+
+43
+00:02:30,065 --> 00:02:32,690
+The course will end with a lesson on
+
+44
+00:02:32,690 --> 00:02:35,795
+the broader implications and impact of machine learning.
+
+45
+00:02:35,795 --> 00:02:39,680
+We'll briefly introduce you to some of the challenges the field faces these days,
+
+46
+00:02:39,680 --> 00:02:43,055
+and we'll cover topics related to responsible artificial intelligence,
+
+47
+00:02:43,055 --> 00:02:47,290
+such as transparency, expandability, and fairness.
+
+48
+00:02:47,290 --> 00:02:50,950
+We hope you enjoy this course.
+
