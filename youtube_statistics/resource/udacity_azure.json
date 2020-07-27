@@ -5,7 +5,8 @@
       {
         "id": 1,
         "name": "Welcome to Udacity",
-        "youtube": "9QadFJRKrEA"
+        "youtube": "9QadFJRKrEA",
+        "transcript": "Welcome to Udacity.  My name is Sebastian Thrun.  I'm the founder of Udacity.  I'm so pleased you've chosen to walk with us.  Our mission at Udacity is to power your career for the world's best tech education.  Tech is transforming the world from  artificial intelligence to Cloud to mobile if you're curious about  it and you want to power your own career and get better and  better via the team that's on your site every day,  every night to make you successful.  So welcome to Udacity,  and I can't wait to see where this journey will take you."
       },
       {
         "id": 2,
@@ -15,7 +16,8 @@
       {
         "id": 3,
         "name": "Course Overview",
-        "youtube": "C25mkY1R5Wc"
+        "youtube": "C25mkY1R5Wc",
+        "transcript": "Hello and welcome to the Introduction to Machine Learning course.  I am Aniththa Umamahesan and I'm  a Program Manager on the Azure Machine Learning team here at Microsoft.  Let me introduce you to my team of instructors.  Thank you Ani. I'm Abraham Omorogbe.  I am also a Program Manager on the Azure Machine Learning team here at Microsoft.  Hi, I am Ciprian Jichici,  recognized as a Microsoft Regional Director and  most valuable professional in artificial intelligence.   I'm Zoiner Tejada. I'm also recognized as a Microsoft Regional Director and MVP in AI,   This course provides an introduction to the fantastic world of machine learning.  Our aim is to provide a low code introductory approach to this topic.  You should consider the course as  a low friction introduction to more complex courses or nano degrees.  Throughout the course, we will use  Azure Machine Learning studio to run the examples and the labs.  We'll start by helping you understand the overall place of the field in  the broader context of computer science by taking you through the history,  prospective, approaches, challenges, essential tools,  and the fundamental processes.  Next we'll focus on core machine learning process.  Training a model.  The entire chain of task is covered from data important transformations to training,  validating, and evaluating the model.  This being an introductory course,  we focus on laying the foundations.  We will talk about both supervised,  like classification and regression and unsupervised, like clustering approaches.  Building on these basics,  more advanced techniques like ensemble learning and deep learning are also covered.  You won't miss either some of the best known specific cases of machine learning,  like recommendations, text classification,  anomaly detection, forecasting, or feature learning.  To make all these work at their best in the real world,  you will most likely need to deal with one or more sets of  managed services that enable  efficient and scalable approaches to data and model management,  compute resources allocation, and operationalization.  As we already mentioned in this course,  Azure Machine Learning will be used as an example of such a managed services platform.  The course will end with a lesson on  the broader implications and impact of machine learning.  We'll briefly introduce you to some of the challenges the field faces these days,  and we'll cover topics related to responsible artificial intelligence,  such as transparency, expandability, and fairness.  We hope you enjoy this course."
       }
     ]
   },
@@ -361,14 +363,31 @@
         "id": 1,
         "name": "Lesson Overview",
         "youtube": "JuhUEeomiL8"
-      },{
+      },
+      {
         "id": 2,
         "name": "Supervised Learning: Classification",
         "youtube": "HXnLBA4OOsg"
-      },{
+      },
+      {
         "id": 3,
         "name": "Categories of Algorithms",
         "youtube": "9mbrJjUEyEI"
+      },
+      {
+        "id": 4,
+        "name": "Walkthrough: Two-Class Classifiers Performance",
+        "youtube": "lXDOH8B0Gs4"
+      },
+      {
+        "id": 5,
+        "name": "Multi-Class Algorithms",
+        "youtube": "SR8akpb0zpE"
+      },
+      {
+        "id": 6,
+        "name": "Walkthrough: Multi-Class Classifiers Performance",
+        "youtube": "QewAKJzDAeg"
       }
     ]
   }
