@@ -129,4 +129,12 @@
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-27-07-2020.png)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot11.png)
+
+
+##### 27, July 2020
+- D16: Completed L4 up to 15
+- Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-28-07-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot12.png)
   
