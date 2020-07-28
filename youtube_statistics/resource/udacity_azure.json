@@ -388,6 +388,21 @@
         "id": 6,
         "name": "Walkthrough: Multi-Class Classifiers Performance",
         "youtube": "QewAKJzDAeg"
+      },
+      {
+        "id": 7,
+        "name": "Walkthrough: Train a Classifier Using Automated Machine Learning",
+        "youtube": "2PGHJJARRa4"
+      },
+      {
+        "id": 8,
+        "name": "Introduction to Regression",
+        "youtube": "VfIJGRbKptQ"
+      },
+      {
+        "id": 9,
+        "name": "Categories of Algorithms",
+        "youtube": "pf9ccUR8fJg"
       }
     ]
   }

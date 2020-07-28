@@ -615,3 +615,80 @@ date,lesson,views,name
 2020/07/27 19:36:15,4-3,991,Walkthrough: Two-Class Classifiers Performance
 2020/07/27 19:36:15,4-4,1051,Multi-Class Algorithms
 2020/07/27 19:36:15,4-5,900,Walkthrough: Multi-Class Classifiers Performance
+2020/07/28 20:32:12,1-0,9103,Welcome to Udacity
+2020/07/28 20:32:12,1-1,5372,Why Machine Learning?
+2020/07/28 20:32:12,1-2,4950,Course Overview
+2020/07/28 20:32:12,2-0,5217,Lesson Overview
+2020/07/28 20:32:12,2-1,4738,What is Machine Learning?
+2020/07/28 20:32:12,2-2,4431,Applications of Machine Learning
+2020/07/28 20:32:12,2-3,4095,Brief History of Machine Learning
+2020/07/28 20:32:12,2-4,3795,The Data Science Process
+2020/07/28 20:32:12,2-5,3644,Common Types of Data
+2020/07/28 20:32:12,2-6,3109,Tabular Data
+2020/07/28 20:32:12,2-7,3041,Tabular Data
+2020/07/28 20:32:12,2-8,3270,Scaling Data
+2020/07/28 20:32:12,2-9,3209,Encoding Categorical Data
+2020/07/28 20:32:12,2-10,3230,Image Data
+2020/07/28 20:32:12,2-11,3197,The Whole Pipeline
+2020/07/28 20:32:12,2-12,3231,Two Perspectives on ML
+2020/07/28 20:32:12,2-13,3094,The Computer Science Perspective
+2020/07/28 20:32:12,2-14,2946,The Statistical Perspective
+2020/07/28 20:32:12,2-15,3130,The Tools for Machine Learning
+2020/07/28 20:32:12,2-16,2931,Libraries for Machine Learning
+2020/07/28 20:32:12,2-17,3297,Cloud Services for Machine Learning
+2020/07/28 20:32:12,2-18,3024,A Brief Intro to Azure Machine Learning
+2020/07/28 20:32:12,2-19,2917,Models vs. Algorithms
+2020/07/28 20:32:12,2-20,3103,Linear Regression
+2020/07/28 20:32:12,2-21,3438,Walkthrough: Train a Linear Regression Model
+2020/07/28 20:32:12,2-22,2461,Learning a function
+2020/07/28 20:32:12,2-23,2602,Parametric vs. Non-parametric
+2020/07/28 20:32:12,2-24,2459,Classical ML vs. Deep Learning
+2020/07/28 20:32:12,2-25,2578,Approaches to Machine Learning
+2020/07/28 20:32:12,2-26,2539,The Trade-Offs
+2020/07/28 20:32:12,2-27,2323,Overfitting vs. Underfitting
+2020/07/28 20:32:12,2-28,2301,Bias vs. Variance Trade-off
+2020/07/28 20:32:12,2-29,2408,Lesson Summary
+2020/07/28 20:32:12,3-0,2680,Lesson Overview
+2020/07/28 20:32:12,3-1,2545,Data Import and Transformation
+2020/07/28 20:32:12,3-2,2496,"Lab: Import, Transform, and Export Data"
+2020/07/28 20:32:12,3-3,2297,Managing Data
+2020/07/28 20:32:12,3-4,1969,Datastores vs. Datasets
+2020/07/28 20:32:12,3-5,2014,The Data Access Workflow
+2020/07/28 20:32:12,3-6,2010,More About Datasets
+2020/07/28 20:32:12,3-7,1745,More About Datasets (2)
+2020/07/28 20:32:12,3-8,1844,Lab: Create and Version a Dataset
+2020/07/28 20:32:12,3-9,1769,Introducing Features
+2020/07/28 20:32:12,3-10,1969,Feature Engineering
+2020/07/28 20:32:12,3-11,1764,Examples of Feature Engineering Tasks
+2020/07/28 20:32:12,3-12,1709,Summary of Feature Engineering Approaches by Data Type
+2020/07/28 20:32:12,3-13,1805,Feature Selection
+2020/07/28 20:32:12,3-14,1711,Feature Selection (2)
+2020/07/28 20:32:12,3-15,1769,Walkthrough: Engineer and Select Features
+2020/07/28 20:32:12,3-16,1433,Walkthrough: Engineer and Select Features (2)
+2020/07/28 20:32:12,3-17,1746,Data Drift
+2020/07/28 20:32:12,3-18,1620,Monitoring for Data Drift
+2020/07/28 20:32:12,3-19,1594,Model Training Basics
+2020/07/28 20:32:12,3-20,1688,Model Training in Azure Machine Learning
+2020/07/28 20:32:12,3-21,1608,Taxonomy of Azure Machine Learning
+2020/07/28 20:32:12,3-22,1521,Training Classifiers
+2020/07/28 20:32:12,3-23,1445,Training Regressors
+2020/07/28 20:32:12,3-24,1414,Evaluating Model Performance
+2020/07/28 20:32:12,3-25,1523,Evaluation Metrics for Classification
+2020/07/28 20:32:12,3-26,1413,Model Evaluation Charts
+2020/07/28 20:32:12,3-27,1440,Evaluation Metrics for Regression
+2020/07/28 20:32:12,3-28,1368,Walkthrough: Train and Evaluate a Model
+2020/07/28 20:32:12,3-29,1321,Strength in Numbers
+2020/07/28 20:32:12,3-30,1260,Ensemble Learning
+2020/07/28 20:32:12,3-31,1184,Strength in Variety: Automated ML
+2020/07/28 20:32:12,3-32,1169,Walkthrough: Train a Two-Class Boosted Decision Tree
+2020/07/28 20:32:12,3-33,1177,Walkthrough: Train a Simple Classifier with Automated ML
+2020/07/28 20:32:12,3-34,1103,Lesson Summary
+2020/07/28 20:32:12,4-0,1188,Lesson Overview
+2020/07/28 20:32:12,4-1,1166,Supervised Learning: Classification
+2020/07/28 20:32:12,4-2,1092,Categories of Algorithms
+2020/07/28 20:32:12,4-3,1055,Walkthrough: Two-Class Classifiers Performance
+2020/07/28 20:32:12,4-4,1127,Multi-Class Algorithms
+2020/07/28 20:32:12,4-5,965,Walkthrough: Multi-Class Classifiers Performance
+2020/07/28 20:32:12,4-6,911,Walkthrough: Train a Classifier Using Automated Machine Learning
+2020/07/28 20:32:12,4-7,906,Introduction to Regression
+2020/07/28 20:32:12,4-8,867,Categories of Algorithms
