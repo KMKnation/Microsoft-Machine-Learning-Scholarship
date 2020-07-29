@@ -403,6 +403,16 @@
         "id": 9,
         "name": "Categories of Algorithms",
         "youtube": "pf9ccUR8fJg"
+      },
+      {
+        "id": 10,
+        "name": "Walkthrough: Regressors Performance",
+        "youtube": "fH5GNou7nj4"
+      },
+      {
+        "id": 11,
+        "name": "Walkthrough: Train a Regressor using Automated Machine Learning",
+        "youtube": "XpM7c9AAN3Y"
       }
     ]
   }
