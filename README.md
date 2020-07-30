@@ -146,3 +146,12 @@
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot13.png)
   
+##### 30, July 2020
+- D18: Completed L4 up to 23
+- Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-30-07-2020.png)      
+- Walked 2.5 km 
+      ![Kick start meeting](images/fitness_1.jpeg)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot14.png)
+  
