@@ -413,6 +413,23 @@
         "id": 11,
         "name": "Walkthrough: Train a Regressor using Automated Machine Learning",
         "youtube": "XpM7c9AAN3Y"
+      },
+      {
+        "id": 12,
+        "name": "Unsupervised Learning",
+        "youtube": "xks3HdxklnE"
+      },{
+        "id": 13,
+        "name": "Unsupervised Learning (2)",
+        "youtube": "2ZM50KroKCU"
+      },{
+        "id": 14,
+        "name": "Types of Unsupervised Machine Learning",
+        "youtube": "87aNOz7QpKM"
+      },{
+        "id": 15,
+        "name": "Semi-Supervised Learnining",
+        "youtube": "aPF17MZ6LkU"
       }
     ]
   }
