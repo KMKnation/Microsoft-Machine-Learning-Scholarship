@@ -430,6 +430,18 @@
         "id": 15,
         "name": "Semi-Supervised Learnining",
         "youtube": "aPF17MZ6LkU"
+      },{
+        "id": 16,
+        "name": "Clustering Algorithms",
+        "youtube": "v4GMgObQpmg"
+      },{
+        "id": 17,
+        "name": "K-Means Clustering",
+        "youtube": "ZcuW7h8XPws"
+      },{
+        "id": 18,
+        "name": "Walkthrough: Train a Simple Clustering Algorithm",
+        "youtube": "R3P39drDfYY"
       }
     ]
   }
