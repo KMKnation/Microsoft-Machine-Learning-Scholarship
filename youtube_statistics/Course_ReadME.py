@@ -9,7 +9,7 @@ with open('resource/udacity_azure.json', 'r') as cfile:
     content = json.load(cfile)
 
 with open('Course_ReadME.md', 'w') as file:
-    file.write('#Microsoft Azure Machine Learning | Udacity\n')
+    file.write('# Microsoft Azure Machine Learning | Udacity\n')
 
     for lesson in content:
         index = str(lesson['index'])
@@ -20,7 +20,7 @@ with open('Course_ReadME.md', 'w') as file:
             URL = chapters[i]['youtube']
             print(chapters[i])
 
-            file.write('####{}\n'.format(name))
+            file.write('#### {}\n'.format(name))
             file.write('\n')
             html_content = '<div align="center"> \n' \
                            ' <a href="https://www.youtube.com/watch?v={}"> \n' \
@@ -30,7 +30,7 @@ with open('Course_ReadME.md', 'w') as file:
             file.write(html_content)
             file.write('\n')
             file.write('\n')
-
+            index = str(lesson['index'])
             '''
             #### TITLE  
             <div align="center">

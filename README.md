@@ -164,4 +164,3 @@
       ![Kick start meeting](images/fitness_2.jpeg)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot15.png)
-  
