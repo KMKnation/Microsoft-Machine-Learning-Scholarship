@@ -164,3 +164,15 @@
       ![Kick start meeting](images/fitness_2.jpeg)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot15.png)
+      
+      
+  ##### 1, August 2020
+- D20: Completed L5 upto 3
+- Company's friendship day meeting
+      ![Kick start meeting](youtube_statistics/screenshots/hbmeet.png)      
+- Historical Udacity Views Plot (Grouped by lesson) [Bug: Sorting by date]
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-01-08-2020.png)      
+- Walked 4.9 km 
+      ![Kick start meeting](images/fitness_3.jpeg)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot16.png)

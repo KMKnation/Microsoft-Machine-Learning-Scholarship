@@ -444,6 +444,32 @@
         "youtube": "R3P39drDfYY"
       }
     ]
+  },
+   {
+    "index": 5,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Lesson Overview",
+        "youtube": "1HmKrd2a2_8"
+      },{
+        "id": 2,
+        "name": "Classical Machine Learning vs. Deep Learning",
+        "youtube": "-n9joiAbG-g"
+      },{
+        "id": 3,
+        "name": "A More Detailed Comparison",
+        "youtube": "E6wi222GVUo"
+      },{
+        "id": 4,
+        "name": "What is Deep Learning?",
+        "youtube": "pkqVrJ_wVGk"
+      },{
+        "id": 5,
+        "name": "What is Deep Learning? (1)",
+        "youtube": "Lol7o0hihMU"
+      }
+    ]
   }
 ]
 

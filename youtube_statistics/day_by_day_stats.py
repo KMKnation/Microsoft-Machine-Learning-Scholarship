@@ -69,13 +69,15 @@ def format_lesson(lesson):
 
 df['lesson'] = df['lesson'].apply(lambda x: format_lesson(x))
 
-
 # df = df.groupby(['date','lesson']).sum()
 generalizeDf = df.groupby(['date', 'lesson']).sum().reset_index()
-print(generalizeDf.head())
 
 df_pivoted = generalizeDf.pivot(index='lesson', columns='date', values='views')
-# print(df_pivoted.head())
+
+
+df_pivoted = df_pivoted.sort_index()
+print(df_pivoted.head())
+
 
 df_pivoted.plot(kind='bar', figsize=(40, 10), color=colors, rot=0, width=0.7,align='center')
 plt.title("Historical Count of Views: Day by Day Comparison | Udacity")
