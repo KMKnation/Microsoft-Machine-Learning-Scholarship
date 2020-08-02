@@ -172,7 +172,7 @@
       ![Kick start meeting](youtube_statistics/screenshots/hbmeet.png)      
 - Historical Udacity Views Plot (Grouped by lesson) [Bug: Sorting by date]
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-01-08-2020.png)      
-- Walked 4.9 km 
-      ![Kick start meeting](images/fitness_3.jpeg)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot16.png)
+- Walked 3 km 
+      ![Kick start meeting](images/fitness_3.jpeg)      
