@@ -179,7 +179,7 @@
       
  
 ##### 2, August 2020
-- D20: Completed L5 upto 3
+- D21: Completed L5 upto 3
 - HealthCare Project Meeting
       ![Kick start meeting](youtube_statistics/screenshots/image.png)      
 - Historical Udacity Views Plot (Grouped by lesson) [Bug: Sorting by date]
