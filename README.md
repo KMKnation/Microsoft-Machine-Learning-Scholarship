@@ -187,4 +187,20 @@
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot17.png)
 - Walked 3 km 
+      ![Kick start meeting](images/fitness_4.jpeg)      
+
+
+ 
+##### 2, August 2020
+- D22: Completed L5 upto 6
+- Learned that groupby and pivot destroys the date sorting so for groupby we have to specify
+    
+        sort=False and for pivot, we have to reindex the table by sorting the date columns
+- Historical Udacity Views Plot (Grouped by lesson) [Bug: Fixed]
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-03-08-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot18.png)
+
+Fitness Day: 5      
+- Walked 3 km 
       ![Kick start meeting](images/fitness_3.jpeg)      

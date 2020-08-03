@@ -1123,3 +1123,98 @@ date,lesson,views,name
 2020/08/02 19:05:03,5-3,1004,What is Deep Learning?
 2020/08/02 19:05:03,5-4,945,What is Deep Learning? (1)
 2020/08/02 19:05:03,5-5,934,"A Word of Caution About ""Neural"""
+2020/08/03 19:26:35,1-0,9322,Welcome to Udacity
+2020/08/03 19:26:35,1-1,5525,Why Machine Learning?
+2020/08/03 19:26:35,1-2,5113,Course Overview
+2020/08/03 19:26:35,2-0,5417,Lesson Overview
+2020/08/03 19:26:35,2-1,4935,What is Machine Learning?
+2020/08/03 19:26:35,2-2,4646,Applications of Machine Learning
+2020/08/03 19:26:35,2-3,4281,Brief History of Machine Learning
+2020/08/03 19:26:35,2-4,4003,The Data Science Process
+2020/08/03 19:26:35,2-5,3837,Common Types of Data
+2020/08/03 19:26:35,2-6,3259,Tabular Data
+2020/08/03 19:26:35,2-7,3190,Tabular Data
+2020/08/03 19:26:35,2-8,3445,Scaling Data
+2020/08/03 19:26:35,2-9,3388,Encoding Categorical Data
+2020/08/03 19:26:35,2-10,3408,Image Data
+2020/08/03 19:26:35,2-11,3363,The Whole Pipeline
+2020/08/03 19:26:35,2-12,3395,Two Perspectives on ML
+2020/08/03 19:26:35,2-13,3264,The Computer Science Perspective
+2020/08/03 19:26:35,2-14,3109,The Statistical Perspective
+2020/08/03 19:26:35,2-15,3321,The Tools for Machine Learning
+2020/08/03 19:26:35,2-16,3116,Libraries for Machine Learning
+2020/08/03 19:26:35,2-17,3513,Cloud Services for Machine Learning
+2020/08/03 19:26:35,2-18,3214,A Brief Intro to Azure Machine Learning
+2020/08/03 19:26:35,2-19,3106,Models vs. Algorithms
+2020/08/03 19:26:35,2-20,3308,Linear Regression
+2020/08/03 19:26:35,2-21,3696,Walkthrough: Train a Linear Regression Model
+2020/08/03 19:26:35,2-22,2653,Learning a function
+2020/08/03 19:26:35,2-23,2813,Parametric vs. Non-parametric
+2020/08/03 19:26:35,2-24,2656,Classical ML vs. Deep Learning
+2020/08/03 19:26:35,2-25,2781,Approaches to Machine Learning
+2020/08/03 19:26:35,2-26,2739,The Trade-Offs
+2020/08/03 19:26:35,2-27,2496,Overfitting vs. Underfitting
+2020/08/03 19:26:35,2-28,2471,Bias vs. Variance Trade-off
+2020/08/03 19:26:35,2-29,2592,Lesson Summary
+2020/08/03 19:26:35,3-0,2931,Lesson Overview
+2020/08/03 19:26:35,3-1,2780,Data Import and Transformation
+2020/08/03 19:26:35,3-2,2752,"Lab: Import, Transform, and Export Data"
+2020/08/03 19:26:35,3-3,2535,Managing Data
+2020/08/03 19:26:35,3-4,2163,Datastores vs. Datasets
+2020/08/03 19:26:35,3-5,2215,The Data Access Workflow
+2020/08/03 19:26:35,3-6,2219,More About Datasets
+2020/08/03 19:26:35,3-7,1920,More About Datasets (2)
+2020/08/03 19:26:35,3-8,2057,Lab: Create and Version a Dataset
+2020/08/03 19:26:35,3-9,1961,Introducing Features
+2020/08/03 19:26:35,3-10,2208,Feature Engineering
+2020/08/03 19:26:35,3-11,1962,Examples of Feature Engineering Tasks
+2020/08/03 19:26:35,3-12,1899,Summary of Feature Engineering Approaches by Data Type
+2020/08/03 19:26:35,3-13,2036,Feature Selection
+2020/08/03 19:26:35,3-14,1922,Feature Selection (2)
+2020/08/03 19:26:35,3-15,2013,Walkthrough: Engineer and Select Features
+2020/08/03 19:26:35,3-16,1613,Walkthrough: Engineer and Select Features (2)
+2020/08/03 19:26:35,3-17,2006,Data Drift
+2020/08/03 19:26:35,3-18,1853,Monitoring for Data Drift
+2020/08/03 19:26:35,3-19,1849,Model Training Basics
+2020/08/03 19:26:35,3-20,1951,Model Training in Azure Machine Learning
+2020/08/03 19:26:35,3-21,1858,Taxonomy of Azure Machine Learning
+2020/08/03 19:26:35,3-22,1768,Training Classifiers
+2020/08/03 19:26:35,3-23,1690,Training Regressors
+2020/08/03 19:26:35,3-24,1645,Evaluating Model Performance
+2020/08/03 19:26:35,3-25,1804,Evaluation Metrics for Classification
+2020/08/03 19:26:35,3-26,1662,Model Evaluation Charts
+2020/08/03 19:26:35,3-27,1721,Evaluation Metrics for Regression
+2020/08/03 19:26:35,3-28,1627,Walkthrough: Train and Evaluate a Model
+2020/08/03 19:26:35,3-29,1620,Strength in Numbers
+2020/08/03 19:26:35,3-30,1545,Ensemble Learning
+2020/08/03 19:26:35,3-31,1444,Strength in Variety: Automated ML
+2020/08/03 19:26:35,3-32,1428,Walkthrough: Train a Two-Class Boosted Decision Tree
+2020/08/03 19:26:35,3-33,1466,Walkthrough: Train a Simple Classifier with Automated ML
+2020/08/03 19:26:35,3-34,1458,Lesson Summary
+2020/08/03 19:26:35,4-0,1513,Lesson Overview
+2020/08/03 19:26:35,4-1,1487,Supervised Learning: Classification
+2020/08/03 19:26:35,4-2,1393,Categories of Algorithms
+2020/08/03 19:26:35,4-3,1363,Walkthrough: Two-Class Classifiers Performance
+2020/08/03 19:26:35,4-4,1485,Multi-Class Algorithms
+2020/08/03 19:26:35,4-5,1249,Walkthrough: Multi-Class Classifiers Performance
+2020/08/03 19:26:35,4-6,1198,Walkthrough: Train a Classifier Using Automated Machine Learning
+2020/08/03 19:26:35,4-7,1228,Introduction to Regression
+2020/08/03 19:26:35,4-8,1184,Categories of Algorithms
+2020/08/03 19:26:35,4-9,1136,Walkthrough: Regressors Performance
+2020/08/03 19:26:35,4-10,1069,Walkthrough: Train a Regressor using Automated Machine Learning
+2020/08/03 19:26:35,4-11,1118,Unsupervised Learning
+2020/08/03 19:26:35,4-12,1062,Unsupervised Learning (2)
+2020/08/03 19:26:35,4-13,1092,Types of Unsupervised Machine Learning
+2020/08/03 19:26:35,4-14,1137,Semi-Supervised Learnining
+2020/08/03 19:26:35,4-15,1153,Clustering Algorithms
+2020/08/03 19:26:35,4-16,1053,K-Means Clustering
+2020/08/03 19:26:35,4-17,997,Walkthrough: Train a Simple Clustering Algorithm
+2020/08/03 19:26:35,5-0,1117,Lesson Overview
+2020/08/03 19:26:35,5-1,1070,Classical Machine Learning vs. Deep Learning
+2020/08/03 19:26:35,5-2,990,A More Detailed Comparison
+2020/08/03 19:26:35,5-3,1049,What is Deep Learning?
+2020/08/03 19:26:35,5-4,983,What is Deep Learning? (1)
+2020/08/03 19:26:35,5-5,973,"A Word of Caution About ""Neural"""
+2020/08/03 19:26:35,5-6,1003,Characteristics of Deep Learning
+2020/08/03 19:26:35,5-7,1057,Benefits of Deep Learning
+2020/08/03 19:26:35,5-8,942,Applications of Deep Learning
