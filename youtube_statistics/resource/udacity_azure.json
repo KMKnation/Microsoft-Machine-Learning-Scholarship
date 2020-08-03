@@ -418,60 +418,86 @@
         "id": 12,
         "name": "Unsupervised Learning",
         "youtube": "xks3HdxklnE"
-      },{
+      },
+      {
         "id": 13,
         "name": "Unsupervised Learning (2)",
         "youtube": "2ZM50KroKCU"
-      },{
+      },
+      {
         "id": 14,
         "name": "Types of Unsupervised Machine Learning",
         "youtube": "87aNOz7QpKM"
-      },{
+      },
+      {
         "id": 15,
         "name": "Semi-Supervised Learnining",
         "youtube": "aPF17MZ6LkU"
-      },{
+      },
+      {
         "id": 16,
         "name": "Clustering Algorithms",
         "youtube": "v4GMgObQpmg"
-      },{
+      },
+      {
         "id": 17,
         "name": "K-Means Clustering",
         "youtube": "ZcuW7h8XPws"
-      },{
+      },
+      {
         "id": 18,
         "name": "Walkthrough: Train a Simple Clustering Algorithm",
         "youtube": "R3P39drDfYY"
       }
     ]
   },
-   {
+  {
     "index": 5,
     "chapters": [
       {
         "id": 1,
         "name": "Lesson Overview",
         "youtube": "1HmKrd2a2_8"
-      },{
+      },
+      {
         "id": 2,
         "name": "Classical Machine Learning vs. Deep Learning",
         "youtube": "-n9joiAbG-g"
-      },{
+      },
+      {
         "id": 3,
         "name": "A More Detailed Comparison",
         "youtube": "E6wi222GVUo"
-      },{
+      },
+      {
         "id": 4,
         "name": "What is Deep Learning?",
         "youtube": "pkqVrJ_wVGk"
-      },{
+      },
+      {
         "id": 5,
         "name": "What is Deep Learning? (1)",
         "youtube": "Lol7o0hihMU"
-      },{
+      },
+      {
         "id": 6,
         "name": "A Word of Caution About \"Neural\"",
         "youtube": "dFiIve3NFwo"
+      },
+      {
+        "id": 7,
+        "name": "Characteristics of Deep Learning",
+        "youtube": "NcEP9T0cDuU"
+      },
+      {
+        "id": 8,
+        "name": "Benefits of Deep Learning",
+        "youtube": "Y5Ysf7q-Y9M"
+      },
+      {
+        "id": 9,
+        "name": "Applications of Deep Learning",
+        "youtube": "B8hmwP1aCic"
       }
     ]
   }

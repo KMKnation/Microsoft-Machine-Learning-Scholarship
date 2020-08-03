@@ -4,18 +4,21 @@ import pandas as pd
 from youtube_statistics import config
 import os
 from datetime import datetime
+import time
 
 PLOT_NUMBER = datetime.now().strftime('%d-%m-%Y')
 
-df = pd.read_csv(config.DATA_FILE)
+df = pd.read_csv(config.DATA_FILE, parse_dates=['date'])
+
+#formatiing the date
+df['date'] = pd.to_datetime(df.date)
+df['date'] = df['date'].dt.strftime('%d/%m/%y')
+
 
 PLOT_DIR = os.path.join(config.SCREENSHOT_DIR, 'plots')
 
 def totalViewOnDayByDay(df):
-    df['date'] = pd.to_datetime(df.date)
-    df['date'] = df['date'].dt.strftime('%d/%m/%Y')
-
-    return df.groupby(['date']).sum()
+    return df.groupby(['date'], sort=False).sum()
 
 def lessonGroupedViews(df):
     pass
@@ -27,13 +30,6 @@ sumDf.plot(kind='bar', figsize=(17, 10),  rot=0)
 plt.title("Total Views Count per Day  | Udacity")
 # plt.savefig(FIG_NAME, bbox_inches='tight')
 # plt.show()
-
-
-
-
-#formatiing the date
-df['date'] = pd.to_datetime(df.date)
-df['date'] = df['date'].dt.strftime('%d/%m/%Y')
 
 
 
@@ -69,13 +65,25 @@ def format_lesson(lesson):
 
 df['lesson'] = df['lesson'].apply(lambda x: format_lesson(x))
 
+
+
+
 # df = df.groupby(['date','lesson']).sum()
-generalizeDf = df.groupby(['date', 'lesson']).sum().reset_index()
+generalizeDf = df.groupby(['date', 'lesson'], sort=False).sum().reset_index()
+#used sort=False because using groupby it changes the indexes
 
-df_pivoted = generalizeDf.pivot(index='lesson', columns='date', values='views')
+
+print(generalizeDf.head())
+
+df_pivoted = generalizeDf.pivot(index='lesson', columns='date', values='views').sort_index(axis=1, level=1)
+
+sorted_date_columns = list(df_pivoted.columns.values)
+sorted_date_columns.sort(key=lambda x: time.mktime(time.strptime(x, "%d/%m/%y")))
 
 
-df_pivoted = df_pivoted.sort_index()
+
+df_pivoted = df_pivoted.reindex(columns=sorted_date_columns)
+# data = data.sort_index()
 print(df_pivoted.head())
 
 
