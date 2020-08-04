@@ -203,4 +203,15 @@
 
 Fitness Day: 5      
 - Walked 3 km 
-      ![Kick start meeting](images/fitness_3.jpeg)      
+      ![Kick start meeting](images/fitness_5.jpeg)      
+
+##### 2, August 2020
+- D23: Consumed with company work and right now may be tired or not feeling well so not going through courses
+- Historical Udacity Views Plot (Grouped by lesson) [Bug: Fixed]
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-04-08-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot19.png)
+
+Fitness Day: 6      
+- Walked 3 km 
+      ![Kick start meeting](images/fitness_6.jpeg)      
