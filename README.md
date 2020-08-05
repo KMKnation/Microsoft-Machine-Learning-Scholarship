@@ -196,7 +196,7 @@
 - Learned that groupby and pivot destroys the date sorting so for groupby we have to specify
     
         sort=False and for pivot, we have to reindex the table by sorting the date columns
-- Historical Udacity Views Plot (Grouped by lesson) [Bug: Fixed]
+- Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-03-08-2020.png)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot18.png)
@@ -214,4 +214,15 @@ Fitness Day: 5
 
 Fitness Day: 6      
 - Walked 3 km 
-      ![Kick start meeting](images/fitness_6.jpeg)      
+      ![Kick start meeting](images/fitness_6.jpeg)  
+      
+##### 5, August 2020
+- D24: Completed L5 up to 10
+- Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-05-08-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot20.png)
+
+Fitness Day: 7      
+- Walked 3 km 
+      ![Kick start meeting](images/fitness_7.jpeg)      
