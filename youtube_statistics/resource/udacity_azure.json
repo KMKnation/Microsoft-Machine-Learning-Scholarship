@@ -498,6 +498,26 @@
         "id": 9,
         "name": "Applications of Deep Learning",
         "youtube": "B8hmwP1aCic"
+      },
+      {
+        "id": 10,
+        "name": "Walkthrough: Train a Simple Neural Net",
+        "youtube": "Tt23S02LP6g"
+      },
+      {
+        "id": 11,
+        "name": "A Review of Approaches to Machine Learning",
+        "youtube": "N86yJ1UP5s8"
+      },
+      {
+        "id": 12,
+        "name": "Specialized Cases of Model Training",
+        "youtube": "urQbSmviMx4"
+      },
+      {
+        "id": 13,
+        "name": "Specialized Cases of Model Training",
+        "youtube": "urQbSmviMx4"
       }
     ]
   }

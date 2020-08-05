@@ -191,7 +191,7 @@
 
 
  
-##### 2, August 2020
+##### 3, August 2020
 - D22: Completed L5 upto 6
 - Learned that groupby and pivot destroys the date sorting so for groupby we have to specify
     
@@ -205,7 +205,7 @@ Fitness Day: 5
 - Walked 3 km 
       ![Kick start meeting](images/fitness_5.jpeg)      
 
-##### 2, August 2020
+##### 4, August 2020
 - D23: Consumed with company work and right now may be tired or not feeling well so not going through courses
 - Historical Udacity Views Plot (Grouped by lesson) [Bug: Fixed]
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-04-08-2020.png)      
