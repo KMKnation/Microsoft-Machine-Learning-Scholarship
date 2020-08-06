@@ -218,6 +218,7 @@ Fitness Day: 6
       
 ##### 5, August 2020
 - D24: Completed L5 up to 10
+- Some EDA on subject of the email [Email Semantic Analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis/blob/master/Exploratory%20Data%20Analysis_mayur.ipynb)
 - Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-05-08-2020.png)      
 - Today's stats
@@ -226,3 +227,19 @@ Fitness Day: 6
 Fitness Day: 7      
 - Walked 3 km 
       ![Kick start meeting](images/fitness_7.jpeg)      
+
+##### 6, August 2020
+- D25: 
+  - Started NLP on [email semantic analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis) project of #sg_connectig_dots
+  - Did some EDA on [SIIM-ISIC Melanoma](https://www.kaggle.com/kmknation/siim-isic-melanoma-understanding?scriptVersionId=40270393) for [skin cancer detection](https://github.com/Connecting-the-Dots-with-ML/skin-cancer-detection) project of #
+- Some EDA on subject of the email [Email Semantic Analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis/blob/master/Exploratory%20Data%20Analysis_mayur.ipynb)
+- Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-06-08-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot21.png)
+
+Fitness Day: 8      
+- Walked 3 km 
+      ![Kick start meeting](images/fitness_8.jpeg)      
+
+
