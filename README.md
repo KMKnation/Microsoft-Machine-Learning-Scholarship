@@ -230,9 +230,8 @@ Fitness Day: 7
 
 ##### 6, August 2020
 - D25: 
-  - Started NLP on [email semantic analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis) project of #sg_connectig_dots
-  - Did some EDA on [SIIM-ISIC Melanoma](https://www.kaggle.com/kmknation/siim-isic-melanoma-understanding?scriptVersionId=40270393) for [skin cancer detection](https://github.com/Connecting-the-Dots-with-ML/skin-cancer-detection) project of #
-- Some EDA on subject of the email [Email Semantic Analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis/blob/master/Exploratory%20Data%20Analysis_mayur.ipynb)
+  - Started NLP on [email semantic analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis) project of  #sg_connecting_the_dots_with_ml 
+  - Did some EDA on [SIIM-ISIC Melanoma](https://www.kaggle.com/kmknation/siim-isic-melanoma-understanding?scriptVersionId=40270393) for [skin cancer detection](https://github.com/Connecting-the-Dots-with-ML/skin-cancer-detection) project of  #sg_connecting_the_dots_with_ml 
 - Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-06-08-2020.png)      
 - Today's stats

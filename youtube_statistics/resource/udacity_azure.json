@@ -513,6 +513,31 @@
         "id": 12,
         "name": "Specialized Cases of Model Training",
         "youtube": "urQbSmviMx4"
+      },
+      {
+        "id": 13,
+        "name": "Similarity Learning",
+        "youtube": "aW8ujYYtglg"
+      },
+      {
+        "id": 14,
+        "name": "Recommender Systems",
+        "youtube": "opL7imA2cjM"
+      },
+      {
+        "id": 15,
+        "name": "Walkthrough: Train a Simple Recommender",
+        "youtube": "LWOe5jrngw8"
+      },
+      {
+        "id": 16,
+        "name": "Walkthrough: Train a Simple Recommender (2)",
+        "youtube": "3wl5n7JTjFk"
+      },
+      {
+        "id": 17,
+        "name": "Text Classification",
+        "youtube": "sUJ9yorV1V4"
       }
     ]
   }
