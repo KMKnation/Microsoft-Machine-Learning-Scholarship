@@ -538,6 +538,11 @@
         "id": 17,
         "name": "Text Classification",
         "youtube": "sUJ9yorV1V4"
+      },
+      {
+        "id": 18,
+        "name": "Training a Classification Model with Text",
+        "youtube": "OYgDFnn4dGA"
       }
     ]
   }
