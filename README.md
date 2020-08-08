@@ -246,14 +246,30 @@ Fitness Day: 8
 - D26: 
   - Removed stop words in email dataset [email semantic analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis) project of  #sg_connecting_the_dots_with_ml 
   - Starting the Forecasting Project for next 25 days udacity views
-    
+  - Completed L5 upto 15  
 - Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-07-08-2020.png)      
 - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot22.png)
 
 Fitness Day: 9
-- Walked 3 km 
+- Walked 3.39 km 
       ![Kick start meeting](images/fitness_9.jpeg)      
+
+
+##### 8, August 2020
+- D26: 
+  - Stemming and Lemmatization on email dataset [email semantic analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis) project of  #sg_connecting_the_dots_with_ml 
+  - Completed L5 upto 18  
+  - Weekly Meet about How to improve more through WFH in upcoming months.
+- Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-08-08-2020.png)      
+- Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-08-08-2020.png)      
+- Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot23.png)
+
+Fitness Day: 10
+- Walked 3 km (Image Update Soon)
 
 

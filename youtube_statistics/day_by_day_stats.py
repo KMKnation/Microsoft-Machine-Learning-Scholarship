@@ -66,34 +66,45 @@ def format_lesson(lesson):
 df['lesson'] = df['lesson'].apply(lambda x: format_lesson(x))
 
 
+def plot(dataframe, fun):
+    print(dataframe.head())
+
+    df_pivoted = dataframe.pivot(index='lesson', columns='date', values='views').sort_index(axis=1, level=1)
+
+    sorted_date_columns = list(df_pivoted.columns.values)
+    sorted_date_columns.sort(key=lambda x: time.mktime(time.strptime(x, "%d/%m/%y")))
+
+    df_pivoted = df_pivoted.reindex(columns=sorted_date_columns)
+    # data = data.sort_index()
+    print(df_pivoted.head())
+
+    df_pivoted.plot(kind='bar', figsize=(40, 10), color=colors, rot=0, width=0.7, align='center')
+    if fun == 'sum':
+        plt.title("Historical Count of Views: Day by Day Comparison | Udacity")
+    else:
+        plt.title("Historical Progress of Azure ML: Day by Day Comparison | Udacity")
+
+    plt.xlabel("Lessons", labelpad=16)
+    plt.ylabel("Count", labelpad=16)
+
+    if fun == 'sum':
+        FIG_NAME = os.path.join(PLOT_DIR, 'Historical-' + str(PLOT_NUMBER) + '.png')
+    else:
+        FIG_NAME = os.path.join(PLOT_DIR, 'Historical-MEAN-' + str(PLOT_NUMBER) + '.png')
+
+    plt.savefig(FIG_NAME, dpi=300, bbox_inches='tight')
+    plt.show()
+
+
+
 
 
 # df = df.groupby(['date','lesson']).sum()
 generalizeDf = df.groupby(['date', 'lesson'], sort=False).sum().reset_index()
 #used sort=False because using groupby it changes the indexes
 
+plot(generalizeDf, fun='sum')
 
-print(generalizeDf.head())
+generalizeDf = df.groupby(['date', 'lesson'], sort=False).mean().reset_index()
 
-df_pivoted = generalizeDf.pivot(index='lesson', columns='date', values='views').sort_index(axis=1, level=1)
-
-sorted_date_columns = list(df_pivoted.columns.values)
-sorted_date_columns.sort(key=lambda x: time.mktime(time.strptime(x, "%d/%m/%y")))
-
-
-
-df_pivoted = df_pivoted.reindex(columns=sorted_date_columns)
-# data = data.sort_index()
-print(df_pivoted.head())
-
-
-df_pivoted.plot(kind='bar', figsize=(40, 10), color=colors, rot=0, width=0.7,align='center')
-plt.title("Historical Count of Views: Day by Day Comparison | Udacity")
-plt.xlabel("Lessons", labelpad=16)
-plt.ylabel("Count", labelpad=16)
-
-FIG_NAME = os.path.join(PLOT_DIR, 'Historical-'+str(PLOT_NUMBER)+'.png')
-plt.savefig(FIG_NAME, dpi=300, bbox_inches='tight')
-plt.show()
-
-
+plot(generalizeDf, fun='mean')
