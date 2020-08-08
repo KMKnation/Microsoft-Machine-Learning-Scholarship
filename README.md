@@ -258,7 +258,7 @@ Fitness Day: 9
 
 
 ##### 8, August 2020
-- D26: 
+- D27: 
   - Stemming and Lemmatization on email dataset [email semantic analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis) project of  #sg_connecting_the_dots_with_ml 
   - Completed L5 upto 18  
   - Weekly Meet about How to improve more through WFH in upcoming months.
