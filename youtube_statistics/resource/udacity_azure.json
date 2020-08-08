@@ -543,6 +543,26 @@
         "id": 18,
         "name": "Training a Classification Model with Text",
         "youtube": "OYgDFnn4dGA"
+      },
+      {
+        "id": 19,
+        "name": "Training a Classification Model with Text (1)",
+        "youtube": "uFjJeVXPkyw"
+      },
+      {
+        "id": 20,
+        "name": "Walkthrough: Train a Simple Text Classifier",
+        "youtube": "IoLpwQiTdPQ"
+      },
+      {
+        "id": 21,
+        "name": "Walkthrough: Train a Simple Text Classifier (2)",
+        "youtube": "WYF7HnRR1rs"
+      },
+      {
+        "id": 22,
+        "name": "Feature Learning",
+        "youtube": "FZFgoHtdnpE"
       }
     ]
   }
