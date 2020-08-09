@@ -270,6 +270,26 @@ Fitness Day: 9
       ![Kick start meeting](youtube_statistics/screenshots/plot23.png)
 
 Fitness Day: 10
-- Walked 3 km (Image Update Soon)
+- Walked 2.36 km 
+      ![Kick start meeting](images/fitness_10.jpeg)      
+      
+
+##### 9, August 2020
+- D28: 
+  - Completed L5 upto 18  
+  - Doing some forecasting based on mean_absolute_percentage_error metric on Udacity Azure ML courses.
+       ![Fore Casting](youtube_statistics/screenshots/plots/forecasting_1.png)
+  - Weekly Meet with Project mates of [email semantic analysis](https://github.com/Connecting-the-Dots-with-ML/Email-Semantic-Analysis) and explained the past work and what we will going to do in future.
+  - Weekly Meet with Project mates of [Skin Cancer Detection](https://www.kaggle.com/kmknation/siim-isic-melanoma-understanding) and explained the past work and what we will going to in future. 
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-09-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-09-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot23.png)
+
+Fitness Day: 11
+- Walked 4.38 km 
+      ![Kick start meeting](images/fitness_11.jpeg)      
 
 

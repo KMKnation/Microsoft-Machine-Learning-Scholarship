@@ -102,7 +102,7 @@ def plot(dataframe, fun):
 # df = df.groupby(['date','lesson']).sum()
 generalizeDf = df.groupby(['date', 'lesson'], sort=False).sum().reset_index()
 #used sort=False because using groupby it changes the indexes
-Time
+
 plot(generalizeDf, fun='sum')
 
 generalizeDf = df.groupby(['date', 'lesson'], sort=False).mean().reset_index()
