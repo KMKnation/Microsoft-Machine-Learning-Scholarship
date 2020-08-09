@@ -563,6 +563,26 @@
         "id": 22,
         "name": "Feature Learning",
         "youtube": "FZFgoHtdnpE"
+      },
+      {
+        "id": 23,
+        "name": "Applications of Feature Learning",
+        "youtube": "LGTdscqTl4E"
+      },
+      {
+        "id": 24,
+        "name": "Feature Learning | Image Classification with Convolutional Neural Networks (CNNs)",
+        "youtube": "DMJ2erBuWQM"
+      },
+      {
+        "id": 25,
+        "name": "Feature Learning | Image Search with Autoencoders",
+        "youtube": "JxFYhiIxllg"
+      },
+      {
+        "id": 26,
+        "name": "Anomaly Detection",
+        "youtube": "xFSa2FgkJTE"
       }
     ]
   }
