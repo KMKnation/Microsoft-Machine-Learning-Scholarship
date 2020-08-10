@@ -291,5 +291,19 @@ Fitness Day: 10
 Fitness Day: 11
 - Walked 4.38 km 
       ![Kick start meeting](images/fitness_11.jpeg)      
+      
+
+##### 10, August 2020
+- D29: 
+  - Completed L5 upto 21  
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-10-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-10-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot24.png)
+
+Fitness Day: 12
+- Walked 3 km 
 
 
