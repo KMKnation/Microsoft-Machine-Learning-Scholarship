@@ -583,6 +583,26 @@
         "id": 26,
         "name": "Anomaly Detection",
         "youtube": "xFSa2FgkJTE"
+      },
+      {
+        "id": 27,
+        "name": "Applications of Anomaly Detection",
+        "youtube": "htPzXY6fVrg"
+      },
+      {
+        "id": 28,
+        "name": "Example of Anomaly Detection",
+        "youtube": "z0ZtPmBJVYY"
+      },
+      {
+        "id": 29,
+        "name": "Forecasting",
+        "youtube": "B0Jt1njlV6s"
+      },
+      {
+        "id": 30,
+        "name": "Types of Forecasting Algorithms",
+        "youtube": "FVwZQ8MR2hc"
       }
     ]
   }
