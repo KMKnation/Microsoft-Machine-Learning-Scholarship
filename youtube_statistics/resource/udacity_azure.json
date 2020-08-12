@@ -615,6 +615,31 @@
         "youtube": "qYJ6kjgzOVI"
       }
     ]
+  },
+  {
+    "index": 6,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Lesson Overview",
+        "youtube": "hoGKdgb8g7M"
+      },
+      {
+        "id": 2,
+        "name": "Managed Services for Machine Learning",
+        "youtube": "vVZcGHAMOqY"
+      },
+      {
+        "id": 3,
+        "name": "Compute Resources | Training Compute",
+        "youtube": "bif1io4cNQQ"
+      },
+      {
+        "id": 4,
+        "name": "Compute Resources | Inferencing Compute",
+        "youtube": "SOPDkh9P-5I"
+      }
+    ]
   }
 ]
 
