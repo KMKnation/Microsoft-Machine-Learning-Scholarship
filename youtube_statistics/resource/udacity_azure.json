@@ -638,6 +638,36 @@
         "id": 4,
         "name": "Compute Resources | Inferencing Compute",
         "youtube": "SOPDkh9P-5I"
+      },
+      {
+        "id": 5,
+        "name": "Walkthrough: Managing Compute",
+        "youtube": "q7RRdfwTWEA"
+      },
+      {
+        "id": 6,
+        "name": "Walkthrough: Managing Compute",
+        "youtube": "q7RRdfwTWEA"
+      },
+      {
+        "id": 7,
+        "name": "Managed Notebook Environments",
+        "youtube": "ZF33SyTMGNA"
+      },
+      {
+        "id": 8,
+        "name": "Managed Notebook Environments",
+        "youtube": "YSWxHQsBK-U"
+      },
+      {
+        "id": 9,
+        "name": "Basic Modeling",
+        "youtube": "Ar5V4a0OBug"
+      },
+      {
+        "id": 10,
+        "name": "Basic Modeling | Experiments",
+        "youtube": "PNKjNd0uJSI"
       }
     ]
   }

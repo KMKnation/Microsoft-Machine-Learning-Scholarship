@@ -312,6 +312,33 @@ Fitness Day: 12
 - D30: 
   - Completed L5
   - Created some visuals for #visual_challenge_gallery 
+    1. Udaicty Collage
+        ![Udacity Collage](./workspace/collage.png)
+        ![Udacity Collage](./workspace/collage_bw.png)
+    2. My Face in the eye of Deep Learning
+        ![My Face](./workspace/face.jpeg)
+    
+    3. Historical Udacity Views Plot (Grouped by lesson)
+      ![Historical Udacity Views Plot](youtube_statistics/screenshots/plots/Historical-11-08-2020.png)      
+  
+    4. Historical Udacity Progress Plot (Grouped by lesson)
+      ![Historical Udacity Progress Plot](youtube_statistics/screenshots/plots/Historical-MEAN-11-08-2020.png)      
+      
+    5. Progress Animated Video
+      ![Progress Animated Video](./youtube_statistics/udacity_progress.mp4)
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot25.png)
+
+Fitness Day: 12
+- Walked 3 km 
+      ![Kick start meeting](images/fitness_12.jpeg)      
+
+
+      
+
+##### 11, August 2020
+- D31: 
+  - Completed L6 upto 5 (I will complete other leesons in 7 days now)
   - Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-11-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
@@ -319,9 +346,8 @@ Fitness Day: 12
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot25.png)
 
-Fitness Day: 12
-- Walked 3 km 
-      ![Kick start meeting](images/fitness_12.jpeg)      
+Fitness Day: 13
+  - Took break due to heavy rain
 
 
 
