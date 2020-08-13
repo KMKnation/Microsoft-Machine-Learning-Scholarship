@@ -336,18 +336,32 @@ Fitness Day: 12
 
       
 
-##### 11, August 2020
+##### 12, August 2020
 - D31: 
   - Completed L6 upto 5 (I will complete other leesons in 7 days now)
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-12-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot26.png)
+
+Fitness Day: 13
+  - Took break due to heavy rain
+  
+  
+##### 11, August 2020
+- D32: 
+  - Completed L6 upto 12
   - Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-11-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-11-08-2020.png)      
   - Today's stats
-      ![Kick start meeting](youtube_statistics/screenshots/plot25.png)
+      ![Kick start meeting](youtube_statistics/screenshots/plot27.png)
 
 Fitness Day: 13
-  - Took break due to heavy rain
+  - NaN (I will update soon)
 
 
 
