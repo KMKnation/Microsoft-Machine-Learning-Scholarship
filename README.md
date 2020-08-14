@@ -350,7 +350,7 @@ Fitness Day: 13
   - Took break due to heavy rain
   
   
-##### 11, August 2020
+##### 13, August 2020
 - D32: 
   - Completed L6 upto 12
   - Historical Udacity Views Plot (Grouped by lesson)
@@ -359,6 +359,22 @@ Fitness Day: 13
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-11-08-2020.png)      
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot27.png)
+
+Fitness Day: 13
+  - 2.06 km
+        ![Kick start meeting](images/fitness_12.jpeg)      
+
+  
+  
+##### 14, August 2020
+- D33: 
+  - Got busy in office's deep learning model troubleshooting in production so had no time for udacity. However creating plots for today's date
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-12-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
 
 Fitness Day: 13
   - NaN (I will update soon)
