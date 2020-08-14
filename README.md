@@ -376,7 +376,7 @@ Fitness Day: 13
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
 
-Fitness Day: 13
+Fitness Day: 14
   - NaN (I will update soon)
 
 
