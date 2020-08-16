@@ -1,0 +1,3 @@
+The PULSE algorithm takes pixelated faces and turns them into high-resolution images. When it takes a pixelized Obama face it outputs a white face. This is an example of bias in AI: the situation when a machine learning model was trained on the data that has a high imbalance of some class (in this case, white people).
+
+People, including many scientists, tend to think that AI is right because its impartial and based on data. However, the AI is only right when trained on balanced data. What is balanced and how to ensure the right balance, it's a huge unanswered question.
