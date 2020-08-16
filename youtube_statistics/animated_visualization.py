@@ -50,7 +50,7 @@ def compare_dayt_by_day(dataframe, date):
     # plt.xticks(fontsize=6)
     fig = matplotlib.pyplot.gcf()
     # fig.set_size_inches(18.5, 10.5)
-    fig.set_size_inches(28.5, 28.5)
+    # fig.set_size_inches(28.5, 50.5)
     plt.xticks(rotation=45, fontsize=fontsize)
     plt.grid(True)
     plt.draw()
@@ -64,9 +64,11 @@ def animation_frame(i):
     print("=============")
     return
 
+# print(df[df['date'] == str('16/08/20')]['lesson'].values)
+
 # Set up formatting for the movie files
 Writer = animation.writers['ffmpeg']
-writer = Writer(fps=1, metadata=dict(artist='Mayur Kanojiya'), bitrate=1800)
+writer = Writer(fps=2, metadata=dict(artist='Mayur Kanojiya'), bitrate=1800)
 
 animate = FuncAnimation(fig, func=animation_frame, frames=df['date'].unique())
 animate.save('udacity_progress.mp4', writer=writer)

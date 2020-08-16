@@ -401,9 +401,7 @@ Fitness Day: 14
 
 ##### 16, August 2020
 - D35: 
-  - Attended Independence Day Meet
-  - Attended Discussion about project presentation
-  - Paticipated in Study Jam
+  - Completed lessons upto L6-18
   - Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
