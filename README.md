@@ -396,7 +396,23 @@ Fitness Day: 14
       ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
 
 Fitness Day: 14
-  - 3 km
+  - 4 km
+      ![Kick start meeting](images/fitness_15.jpeg)      
+
+##### 16, August 2020
+- D35: 
+  - Attended Independence Day Meet
+  - Attended Discussion about project presentation
+  - Paticipated in Study Jam
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-12-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
+
+Fitness Day: 14
+  - 4 km
       ![Kick start meeting](images/fitness_15.jpeg)      
 
 
