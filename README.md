@@ -354,9 +354,9 @@ Fitness Day: 13
 - D32: 
   - Completed L6 upto 12
   - Historical Udacity Views Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-11-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-13-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-11-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-13-08-2020.png)      
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot27.png)
 
@@ -370,9 +370,9 @@ Fitness Day: 13
 - D33: 
   - Got busy in office's deep learning model troubleshooting in production so had no time for udacity. However creating plots for today's date
   - Historical Udacity Views Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-14-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-12-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-14-08-2020.png)      
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
 
@@ -389,9 +389,9 @@ Fitness Day: 14
   - Attended Discussion about project presentation
   - Paticipated in Study Jam
   - Historical Udacity Views Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-15-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-12-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-15-08-2020.png)      
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
 
@@ -403,15 +403,29 @@ Fitness Day: 14
 - D35: 
   - Completed lessons upto L6-18
   - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-16-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-16-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot29.png)
+
+Fitness Day: 15
+  - 4 km
+      ![Kick start meeting](images/fitness_16.jpeg)      
+
+##### 17, August 2020
+- D36: 
+  - Completed lessons upto L6-18
+  - Historical Udacity Views Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-12-08-2020.png)      
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
 
-Fitness Day: 14
+Fitness Day: 15
   - 4 km
-      ![Kick start meeting](images/fitness_15.jpeg)      
+      ![Kick start meeting](images/fitness_16.jpeg)      
 
 
 
