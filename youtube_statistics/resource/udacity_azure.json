@@ -738,6 +738,16 @@
         "id": 25,
         "name": "Programmatically Accessing Managed Services",
         "youtube": "69xItMGJ2p8"
+      },
+      {
+        "id": 26,
+        "name": "Walkthrough: Training and Deploying a Model from a Notebook Running in a Compute Instance",
+        "youtube": "nOnJXN4XP1M"
+      },
+      {
+        "id": 27,
+        "name": "Lesson Summary",
+        "youtube": "ybpXlQi_ZFI"
       }
     ]
   }

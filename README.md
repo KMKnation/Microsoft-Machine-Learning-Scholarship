@@ -415,17 +415,18 @@ Fitness Day: 15
 
 ##### 17, August 2020
 - D36: 
-  - Completed lessons upto L6-18
+  - Completed L6 
+  - Overall View Trend
+        ![Kick start meeting](youtube_statistics/screenshots/Figure_1.png)      
   - Historical Udacity Views Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-12-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-17-08-2020.png)      
   - Historical Udacity Progress Plot (Grouped by lesson)
-      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-12-08-2020.png)      
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-17-08-2020.png)      
   - Today's stats
-      ![Kick start meeting](youtube_statistics/screenshots/plot28.png)
+      ![Kick start meeting](youtube_statistics/screenshots/plot29.png)
 
-Fitness Day: 15
-  - 4 km
-      ![Kick start meeting](images/fitness_16.jpeg)      
+Fitness Day: 16
+  - NaN
 
 
 
