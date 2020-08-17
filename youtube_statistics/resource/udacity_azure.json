@@ -703,6 +703,41 @@
         "id": 17,
         "name": "MLOps: Creating Automatic End-to-End Integrated Processes",
         "youtube": "sDp10jUg9Bk"
+      },
+      {
+        "id": 18,
+        "name": "Operationalizing Models",
+        "youtube": "RcRP0QDPqBc"
+      },
+      {
+        "id": 19,
+        "name": "Real-time Inferencing",
+        "youtube": "bM9wpLEE3YQ"
+      },
+      {
+        "id": 20,
+        "name": "Batch Inferencing",
+        "youtube": "5faQxutTO_g"
+      },
+      {
+        "id": 22,
+        "name": "Walkthrough: Deploy a Model as a Webservice - 1",
+        "youtube": "YRjFSMsOfBU"
+      },
+      {
+        "id": 23,
+        "name": "Walkthrough: Deploy a Model as a Webservice - 2",
+        "youtube": "PV0o_NwgRzk"
+      },
+      {
+        "id": 24,
+        "name": "Walkthrough: Deploy a Model as a Webservice - 3",
+        "youtube": "YzpvDRggb4Q"
+      },
+      {
+        "id": 25,
+        "name": "Programmatically Accessing Managed Services",
+        "youtube": "69xItMGJ2p8"
       }
     ]
   }
