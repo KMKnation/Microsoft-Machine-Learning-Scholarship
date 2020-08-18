@@ -426,7 +426,20 @@ Fitness Day: 15
       ![Kick start meeting](youtube_statistics/screenshots/plot29.png)
 
 Fitness Day: 16
-  - NaN
+  - NaN (Due to heavy rain)
+  
+##### 18, August 2020
+- D37: 
+  - Completed Whole Course Work :D :D :D
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-18-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-18-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot31.png)
+
+Fitness Day: 17
+  - NaN (Due to heavy rain)
 
 
 
