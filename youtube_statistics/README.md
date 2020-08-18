@@ -43,6 +43,12 @@ Pandas, Matplotlin and seaborn used to create plot from the availlable data.
     
 <b>Output: </b>
 
-![Output](screenshots/plot3.png)
+![Output](screenshots/plot31.png)
 
-  
+<b>Historical Udacity Views Plot (Grouped by lesson)</b>
+
+![Output](screenshots/plots/Historical-18-08-2020.png)      
+
+<b>Historical Udacity Progress Plot (Grouped by lesson) <b>
+
+![Output](screenshots/plots/Historical-MEAN-18-08-2020.png)      
