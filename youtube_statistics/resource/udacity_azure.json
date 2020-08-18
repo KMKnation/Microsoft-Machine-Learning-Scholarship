@@ -750,6 +750,75 @@
         "youtube": "ybpXlQi_ZFI"
       }
     ]
+  },
+  {
+    "index": 7,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Lesson Overview",
+        "youtube": "rRZ8UXCnqIc"
+      },
+      {
+        "id": 2,
+        "name": "Modern AI: Challenges and Principles",
+        "youtube": "T4tMKKfBUig"
+      },
+      {
+        "id": 3,
+        "name": "Microsoft AI Principles",
+        "youtube": "UxGSdEHLdUU"
+      },
+      {
+        "id": 4,
+        "name": "Model Transparency and Explainability - 1",
+        "youtube": "SPpEwlCFjvQ"
+      },
+      {
+        "id": 5,
+        "name": "Model Transparency and Explainability - 2",
+        "youtube": "q-cN7eqonkk"
+      },
+      {
+        "id": 6,
+        "name": "Walkthrough: Model Explainability - 1",
+        "youtube": "QkOssW8N_u4"
+      },
+      {
+        "id": 7,
+        "name": "Walkthrough: Model Explainability - 2",
+        "youtube": "B6iNfHxm-WM"
+      },
+      {
+        "id": 8,
+        "name": "Model Fairness",
+        "youtube": "xcVJsraX3o4"
+      },
+      {
+        "id": 9,
+        "name": "Model Fairness - Demo",
+        "youtube": "D3KyjrsKJCI"
+      },
+      {
+        "id": 10,
+        "name": "Lesson Summary",
+        "youtube": "QpSKT_S4X3k"
+      }
+    ]
+  }, {
+    "index": 8,
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Course Conclusion",
+        "youtube": "Gqw9cHfuLcc"
+      },
+      {
+        "id": 2,
+        "name": "The Future and Importance of Machine Learning",
+        "youtube": "gxyK2DeGo38"
+      }
+    ]
   }
 ]
 
