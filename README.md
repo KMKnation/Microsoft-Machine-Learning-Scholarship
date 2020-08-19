@@ -439,7 +439,21 @@ Fitness Day: 16
       ![Kick start meeting](youtube_statistics/screenshots/plot31.png)
 
 Fitness Day: 17
-  - NaN (Due to heavy rain)
+  - 6 km
+      ![Fitness](images/fitness_17.jpeg)  
+      
 
+##### 19, August 2020
+- D38: 
+  - Involved in MLOps in office. Implementing GEARMAN Worker for machine learning pipeline
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-19-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-19-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot34.png)
+
+Fitness Day: 17
+  - NAN km
 
 
