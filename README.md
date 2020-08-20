@@ -470,6 +470,6 @@ Fitness Day: 18
   - LAST CHAPTER VIEWS
        ![Last-Chapters](youtube_statistics/screenshots/plots/LAST-CHAPTER-20-08-2020.png)
 
-Fitness Day: 18
+Fitness Day: 19
   - NaN KM
       ![Fitness](images/fitness_19.jpeg)  
