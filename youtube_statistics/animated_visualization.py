@@ -1,3 +1,5 @@
+import os
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
@@ -6,6 +8,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib
 import matplotlib.animation as animation
+
 
 df = pd.read_csv(config.DATA_FILE, parse_dates=['date'])
 
@@ -64,7 +67,7 @@ def animation_frame(i):
     print("=============")
     return
 
-# print(df[df['date'] == str('16/08/20')]['lesson'].values)
+print(df[df['date'] == str('16/08/20')]['lesson'].values)
 
 # Set up formatting for the movie files
 Writer = animation.writers['ffmpeg']
@@ -73,4 +76,28 @@ writer = Writer(fps=2, metadata=dict(artist='Mayur Kanojiya'), bitrate=1800)
 animate = FuncAnimation(fig, func=animation_frame, frames=df['date'].unique())
 animate.save('udacity_progress.mp4', writer=writer)
 
-# plt.show()
+
+
+from datetime import datetime
+PLOT_NUMBER = datetime.now().strftime('%d-%m-%Y')
+
+PLOT_DIR = os.path.join(config.SCREENSHOT_DIR, 'plots')
+
+FIG_NAME = os.path.join(PLOT_DIR, 'LAST-CHAPTER-' + str(PLOT_NUMBER) + '.png')
+
+
+df = df[df['date'] == '20/08/20']
+df = df[df['lesson'].isin(['7-0','7-1','7-2','7-3''7-4','7-5','7-6','7-7','7-8','7-9', '8-0', '8-1'])].reset_index()
+
+print(df.head())
+
+sns.barplot(data=df
+            , x='lesson'
+            , y='views'
+            , color='#02b3e4'
+            , ci=None
+            )
+plt.title('Youtube Statistics | Microsoft Azure Machine Learning | Udacity')
+
+plt.savefig(FIG_NAME, dpi=300, bbox_inches='tight')
+plt.show()
