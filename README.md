@@ -453,7 +453,21 @@ Fitness Day: 17
   - Today's stats
       ![Kick start meeting](youtube_statistics/screenshots/plot34.png)
 
-Fitness Day: 17
-  - NAN km
+Fitness Day: 18
+  - 3 KM
+      ![Fitness](images/fitness_18.jpeg)  
 
 
+- D39: 
+  - Creating MLOps APIs in office. Implemented GEARMAN Worker for machine learning pipeline
+       ![GearMan](workspace/gearman.png)
+  - Historical Udacity Views Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-20-08-2020.png)      
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-20-08-2020.png)      
+  - Today's stats
+      ![Kick start meeting](youtube_statistics/screenshots/plot35.png)
+
+Fitness Day: 18
+  - 3 KM
+      ![Fitness](images/fitness_18.jpeg)  
