@@ -32,48 +32,107 @@ fig, ax = plt.subplots()
 
 
 def compare_dayt_by_day(dataframe, date):
+
     dataframe = dataframe[dataframe['date'] == str(date)]
+
     vals = len(dataframe.values)
 
-    ax = sns.barplot(data=dataframe
-                , x='lesson'
-                , y='views'
-                , color='#02b3e4'
-                , ci=None
-                )
+    if vals > 0:
 
-    columns_len = len(dataframe['lesson'].unique())
-    plt.setp(ax.patches, linewidth=0)
 
-    plt.title('Youtube Statistics | Microsoft Azure ML | Udacity | Day: {}'.format(date))
-    change_width(ax, .35)
+        ax = sns.barplot(data=dataframe
+                    , x='lesson'
+                    , y='views'
+                    , color='#02b3e4'
+                    , ci=None
+                    )
 
-    fontsize =  400 / columns_len
+        columns_len = len(dataframe['lesson'].unique())
+        plt.setp(ax.patches, linewidth=0)
 
-    # plt.xticks(fontsize=6)
-    fig = matplotlib.pyplot.gcf()
-    # fig.set_size_inches(18.5, 10.5)
-    # fig.set_size_inches(28.5, 50.5)
-    plt.xticks(rotation=45, fontsize=fontsize)
-    plt.grid(True)
-    plt.draw()
-    # plt.show()
+        plt.title('Youtube Statistics | Microsoft Azure ML | Udacity | Day: {}'.format(date))
+        change_width(ax, .35)
 
-frame = len(df.values)
+        fontsize =  400 / columns_len
+
+        # plt.xticks(fontsize=6)
+        fig = matplotlib.pyplot.gcf()
+        # fig.set_size_inches(18.5, 10.5)
+        # fig.set_size_inches(28.5, 50.5)
+        plt.xticks(rotation=45, fontsize=fontsize)
+        plt.grid(True)
+        plt.draw()
+        # plt.show()
+    else:
+        plt.draw()
+
+def compare_last_chapters(dataframe, date):
+
+    dataframe = dataframe[dataframe['lesson'].isin(
+        ['7-0', '7-1', '7-2', '7-3''7-4', '7-5', '7-6', '7-7', '7-8', '7-9', '8-0', '8-1'])].reset_index()
+    dataframe = dataframe[dataframe['date'] == str(date)]
+
+    vals = len(dataframe.values)
+
+    if vals > 0:
+
+
+        ax = sns.barplot(data=dataframe
+                    , x='lesson'
+                    , y='views'
+                    , color='#02b3e4'
+                    , ci=None
+                    )
+
+        columns_len = len(dataframe['lesson'].unique())
+        plt.setp(ax.patches, linewidth=0)
+
+        plt.title('Youtube Statistics | Microsoft Azure ML | Udacity | Day: {}'.format(date))
+        change_width(ax, .35)
+
+        fontsize =  100 / columns_len
+
+        # plt.xticks(fontsize=6)
+        fig = matplotlib.pyplot.gcf()
+        # fig.set_size_inches(18.5, 10.5)
+        # fig.set_size_inches(28.5, 50.5)
+        plt.xticks(rotation=45, fontsize=fontsize)
+        plt.grid(True)
+        plt.draw()
+        # plt.show()
+    else:
+        plt.draw()
+
 
 def animation_frame(i):
     compare_dayt_by_day(df, i)
+    # compare_last_chapters(df, i)
     print(i)
     print("=============")
     return
 
-print(df[df['date'] == str('16/08/20')]['lesson'].values)
+
+def last_animation_frame(i):
+    compare_last_chapters(df, i)
+    print(i)
+    print("=============")
+    return
+
 
 # Set up formatting for the movie files
 Writer = animation.writers['ffmpeg']
 writer = Writer(fps=2, metadata=dict(artist='Mayur Kanojiya'), bitrate=1800)
 
-animate = FuncAnimation(fig, func=animation_frame, frames=df['date'].unique())
+
+def get_last_animate():
+    return FuncAnimation(fig, func=last_animation_frame, frames=df[df['date'] > '17/08/20']['date'].unique())
+
+def get_animate():
+    return FuncAnimation(fig, func=animation_frame, frames=df['date'].unique())
+
+animate = get_last_animate()
+
+
 animate.save('udacity_progress.mp4', writer=writer)
 
 
@@ -85,8 +144,12 @@ PLOT_DIR = os.path.join(config.SCREENSHOT_DIR, 'plots')
 
 FIG_NAME = os.path.join(PLOT_DIR, 'LAST-CHAPTER-' + str(PLOT_NUMBER) + '.png')
 
+plt.show()
+plt.clf()
+
 
 df = df[df['date'] == '20/08/20']
+
 df = df[df['lesson'].isin(['7-0','7-1','7-2','7-3''7-4','7-5','7-6','7-7','7-8','7-9', '8-0', '8-1'])].reset_index()
 
 print(df.head())
