@@ -473,3 +473,12 @@ Fitness Day: 18
 Fitness Day: 19
   - NaN 
       ![Fitness](images/fitness_19.jpeg)  
+      
+ 
+- D40: 
+  - Working on the automation script to make sure each lesson checked and nothing left 
+  - Creating last lesson views graph animation to keep track of the completion rate.
+
+Fitness Day: 19
+  - 7.11 km 
+      ![Fitness](images/fitness_19.jpeg)  
