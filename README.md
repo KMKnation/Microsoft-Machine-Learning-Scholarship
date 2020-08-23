@@ -458,6 +458,7 @@ Fitness Day: 18
       ![Fitness](images/fitness_18.jpeg)  
 
 
+##### 20, August 2020
 - D39: 
   - Creating MLOps APIs in office. Implemented GEARMAN Worker for machine learning pipeline
        ![GearMan](workspace/gearman.png)
@@ -472,9 +473,9 @@ Fitness Day: 18
 
 Fitness Day: 19
   - NaN 
-      ![Fitness](images/fitness_19.jpeg)  
       
- 
+
+##### 21, August 2020 
 - D40: 
   - Working on the automation script to make sure each lesson checked and nothing left 
   - Creating last lesson views graph animation to keep track of the completion rate.
@@ -482,3 +483,21 @@ Fitness Day: 19
 Fitness Day: 19
   - 7.11 km 
       ![Fitness](images/fitness_19.jpeg)  
+      
+
+##### 22, August 2020 
+- D41: 
+  - Completed automate script on lesson 2
+       ![Automate](workspace/udacity_automate.gif)
+
+Fitness Day: 20
+  - NaN
+  
+##### 23, August 2020 
+- D42: 
+  - Involved in email semantic analysis
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-23-08-2020.png)          
+
+Fitness Day: 20
+      ![Fitness](images/fitness_20.jpeg)  
