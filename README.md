@@ -500,4 +500,19 @@ Fitness Day: 20
       ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-23-08-2020.png)          
 
 Fitness Day: 20
+  - 3 km
       ![Fitness](images/fitness_20.jpeg)  
+  
+##### 24, August 2020 
+- D43: 
+  - Created TF-IDF matrix for email semantic analysis project
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-23-08-2020.png)          
+  - Last week progress | Around 1200 students completed last week. Still, 2 weeks to go to achieve 200%  :sonic::metroid-running-hurry:
+      ![Last week progress](youtube_statistics/screenshots/24-lastweek-progress.gif)
+  
+
+Fitness Day: 20
+  - Going for cycling :D. I will update this soon    
+
+
