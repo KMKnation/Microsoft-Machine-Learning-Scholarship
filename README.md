@@ -515,4 +515,26 @@ Fitness Day: 20
 Fitness Day: 20
   - Going for cycling :D. I will update this soon    
 
+##### 25, August 2020 
+- D44: 
+  - Evaluating K-mean clustering algo on enron dataset
+  - Historical Udacity Progress Plot (Grouped by lesson)
+      ![Kick start meeting](youtube_statistics/screenshots/plots/Historical-MEAN-25-08-2020.png)            
+
+
+
+
+##### 26, August 2020 
+- D45: 
+  - Completed the K-means clustering algo on enron dataset.
+  Read: https://www.kaggle.com/kmknation/training-the-k-means-clustering?scriptVersionId=41432304
+  
+
+Fitness Day: 21
+  - Walking: 4 km
+    ![Fitness](images/fitness_21.jpeg)
+
+  
+
+
 
