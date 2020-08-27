@@ -540,7 +540,10 @@ Fitness Day: 21
   - Read adaptive learning docs
   
 Fitness Day: 22
-  - Going out for biking..
+  - Going out for biking.. but it had a puncture so started walking 
+  
+  - Walking: 3 km
+    ![Fitness](images/fitness_22.jpeg)
 
   
 
