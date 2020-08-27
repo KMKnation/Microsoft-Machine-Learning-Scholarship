@@ -533,6 +533,14 @@ Fitness Day: 20
 Fitness Day: 21
   - Walking: 4 km
     ![Fitness](images/fitness_21.jpeg)
+    
+    
+##### 27, August 2020 
+- D46: 
+  - Read adaptive learning docs
+  
+Fitness Day: 22
+  - Going out for biking..
 
   
 
