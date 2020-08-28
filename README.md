@@ -544,6 +544,29 @@ Fitness Day: 22
   
   - Walking: 3 km
     ![Fitness](images/fitness_22.jpeg)
+    
+    
+        
+##### 28, August 2020 
+- D46: 
+  - Read adaptive learning docs
+  
+Fitness Day: 22
+  - Going out for biking.. but it had a puncture so started walking 
+  
+  - Walking: 3 km
+    ![Fitness](images/fitness_22.jpeg)
+
+
+        
+##### 28, August 2020 
+- D47: 
+  - I had project presentation meeting with @Kum Somi 
+  - Working on one scraping project to identify the 300
+  - Creating one technical architecture to create chatbot on udacity coursework
+  
+Fitness Day: 22
+  - NaN
 
   
 
