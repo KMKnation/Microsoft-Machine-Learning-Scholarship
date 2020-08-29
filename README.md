@@ -566,9 +566,15 @@ Fitness Day: 22
   - Creating one technical architecture to create chatbot on udacity coursework
   
 Fitness Day: 22
-  - NaN
+  - 1.33 km walking
 
   
 
+##### 29, August 2020 
+- D48: 
+  - Preparing for the presentation
+    ![Presentation](workspace/project_presentation.png)
+  - Presented our Email Semantic Analysis Project in ML Fest
+  
 
 
