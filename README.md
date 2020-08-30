@@ -575,6 +575,10 @@ Fitness Day: 22
   - Preparing for the presentation
     ![Presentation](workspace/project_presentation.png)
   - Presented our Email Semantic Analysis Project in ML Fest
-  
+
+
+##### 30, August 2020 
+- D49: 
+  - Participated in studyjam 2.0  
 
 
