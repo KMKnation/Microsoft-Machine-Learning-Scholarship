@@ -582,3 +582,10 @@ Fitness Day: 22
   - Participated in studyjam 2.0  
 
 
+##### 31, August 2020 
+- D50: 
+  - Evaluation the #50daysofudacity challenge
+  - 1478 people have taken this challenge
+
+
+## My 50 Days Challenge Completes Here :) \m/ 

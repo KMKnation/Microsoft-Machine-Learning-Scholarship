@@ -1,3 +1,5 @@
 import pandas as pd
 
-pd.r
+df = pd.read_csv('pledged.csv')
+
+print(df.head())
