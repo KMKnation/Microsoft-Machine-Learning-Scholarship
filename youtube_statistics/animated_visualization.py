@@ -126,7 +126,8 @@ writer = Writer(fps=2, metadata=dict(artist='Mayur Kanojiya'), bitrate=1800)
 
 def get_last_animate():
     # return FuncAnimation(fig, func=last_animation_frame, frames=df[df['date'] > '17/08/20']['date'].unique())
-    return FuncAnimation(fig, func=last_animation_frame, frames=['18/08/20','19/08/20','20/08/20','21/08/20','22/08/20','23/08/20','24/08/20'])
+    return FuncAnimation(fig, func=last_animation_frame, frames=['18/08/20','19/08/20','20/08/20','21/08/20','22/08/20',
+                                                                 '23/08/20','24/08/20','25/08/20','26/08/20','27/08/20','28/08/20','29/08/20','30/08/20'])
 
 def get_animate():
     return FuncAnimation(fig, func=animation_frame, frames=df['date'].unique())

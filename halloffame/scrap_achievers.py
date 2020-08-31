@@ -10,15 +10,12 @@ secret_df = pd.read_csv('CONFIDENTIAL')
 ID = secret_df.iloc[0, 0]
 SHEET_NAME = secret_df.iloc[2, 0]
 
-
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
 # The ID and range of a sample spreadsheet.
 SAMPLE_SPREADSHEET_ID = ID
-SAMPLE_RANGE_NAME = SHEET_NAME+'!A3:Q'
-
-
+SAMPLE_RANGE_NAME = SHEET_NAME + '!A3:Q'
 
 """Shows basic usage of the Sheets API.
     Prints values from a sample spreadsheet.
@@ -50,11 +47,19 @@ result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
                             range=SAMPLE_RANGE_NAME).execute()
 values = result.get('values', [])
 
+students = []
 if not values:
     print('No data found.')
 else:
-    print('Name, Major:')
+    print('DATA FOUND !!')
     for row in values:
         # Print columns A and E, which correspond to indices 0 and 4.
-        print('%s, %s, %s, %s, %s, %s, %s, %s, %s' % (row[0], row[2], row[4], row[6], row[8], row[10], row[12], row[14], row[16]))
+        # print('%s, %s, %s, %s, %s, %s, %s, %s, %s' % (column[0], column[2], column[4], column[6], column[8], column[10], column[12], column[14], column[16]))
+        try:
+            for col in range(len(row)):
+                if col in [0.4, 6, 8, 10, 12, 14, 16]:
+                    students.append(row[col])
+        except Exception as err:
+            print(err)
 
+print(len(students))
