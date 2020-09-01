@@ -573,7 +573,7 @@ Fitness Day: 22
 ##### 29, August 2020 
 - D48: 
   - Preparing for the presentation
-    ![Presentation](workspace/project_presentation.png)
+    ![Presentation](workspace/project_presentation.png){:height="700px" width="400px"}
   - Presented our Email Semantic Analysis Project in ML Fest
 
 
