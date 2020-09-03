@@ -56,7 +56,10 @@ else:
     for row in values:
         # Print rows A and E, which correspond to indices 0 and 4.
         try:
-            data.append([row[0], row[1], row[2], row[3], row[4], row[5]])
+            if len(row) == 6:
+                data.append([row[0], row[1], row[2], row[3], row[4], row[5]])
+            else:
+                data.append([row[0], row[1], row[2], row[3], row[4], ''])
             slack_mentioned_message += "@"+str(row[3]+",\n")
         except Exception as err:
             print(err)
