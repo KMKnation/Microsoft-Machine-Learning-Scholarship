@@ -5351,3 +5351,159 @@ date,lesson,views,name
 2020/09/05 22:06:36,7-9,1475,Lesson Summary
 2020/09/05 22:06:36,8-0,1781,Course Conclusion
 2020/09/05 22:06:36,8-1,1514,The Future and Importance of Machine Learning
+2020/09/07 23:13:05,1-0,10022,Welcome to Udacity
+2020/09/07 23:13:05,1-1,6065,Why Machine Learning?
+2020/09/07 23:13:05,1-2,5708,Course Overview
+2020/09/07 23:13:05,2-0,6119,Lesson Overview
+2020/09/07 23:13:05,2-1,5668,What is Machine Learning?
+2020/09/07 23:13:05,2-2,5417,Applications of Machine Learning
+2020/09/07 23:13:05,2-3,4981,Brief History of Machine Learning
+2020/09/07 23:13:05,2-4,4758,The Data Science Process
+2020/09/07 23:13:05,2-5,4577,Common Types of Data
+2020/09/07 23:13:05,2-6,3890,Tabular Data
+2020/09/07 23:13:05,2-7,3789,Tabular Data
+2020/09/07 23:13:05,2-8,4184,Scaling Data
+2020/09/07 23:13:05,2-9,4108,Encoding Categorical Data
+2020/09/07 23:13:05,2-10,4133,Image Data
+2020/09/07 23:13:05,2-11,4014,The Whole Pipeline
+2020/09/07 23:13:05,2-12,4078,Two Perspectives on ML
+2020/09/07 23:13:05,2-13,3925,The Computer Science Perspective
+2020/09/07 23:13:05,2-14,3730,The Statistical Perspective
+2020/09/07 23:13:05,2-15,3997,The Tools for Machine Learning
+2020/09/07 23:13:05,2-16,3759,Libraries for Machine Learning
+2020/09/07 23:13:05,2-17,4276,Cloud Services for Machine Learning
+2020/09/07 23:13:05,2-18,3897,A Brief Intro to Azure Machine Learning
+2020/09/07 23:13:05,2-19,3797,Models vs. Algorithms
+2020/09/07 23:13:05,2-20,4067,Linear Regression
+2020/09/07 23:13:05,2-21,4639,Walkthrough: Train a Linear Regression Model
+2020/09/07 23:13:05,2-22,3310,Learning a function
+2020/09/07 23:13:05,2-23,3521,Parametric vs. Non-parametric
+2020/09/07 23:13:05,2-24,3324,Classical ML vs. Deep Learning
+2020/09/07 23:13:05,2-25,3498,Approaches to Machine Learning
+2020/09/07 23:13:05,2-26,3434,The Trade-Offs
+2020/09/07 23:13:05,2-27,3104,Overfitting vs. Underfitting
+2020/09/07 23:13:05,2-28,3088,Bias vs. Variance Trade-off
+2020/09/07 23:13:05,2-29,3247,Lesson Summary
+2020/09/07 23:13:05,3-0,3819,Lesson Overview
+2020/09/07 23:13:05,3-1,3743,Data Import and Transformation
+2020/09/07 23:13:05,3-2,3762,"Lab: Import, Transform, and Export Data"
+2020/09/07 23:13:05,3-3,3472,Managing Data
+2020/09/07 23:13:05,3-4,2943,Datastores vs. Datasets
+2020/09/07 23:13:05,3-5,2999,The Data Access Workflow
+2020/09/07 23:13:05,3-6,3059,More About Datasets
+2020/09/07 23:13:05,3-7,2612,More About Datasets (2)
+2020/09/07 23:13:05,3-8,2849,Lab: Create and Version a Dataset
+2020/09/07 23:13:05,3-9,2733,Introducing Features
+2020/09/07 23:13:05,3-10,3115,Feature Engineering
+2020/09/07 23:13:05,3-11,2755,Examples of Feature Engineering Tasks
+2020/09/07 23:13:05,3-12,2649,Summary of Feature Engineering Approaches by Data Type
+2020/09/07 23:13:05,3-13,2871,Feature Selection
+2020/09/07 23:13:05,3-14,2711,Feature Selection (2)
+2020/09/07 23:13:05,3-15,2867,Walkthrough: Engineer and Select Features
+2020/09/07 23:13:05,3-16,2258,Walkthrough: Engineer and Select Features (2)
+2020/09/07 23:13:05,3-17,2897,Data Drift
+2020/09/07 23:13:05,3-18,2645,Monitoring for Data Drift
+2020/09/07 23:13:05,3-19,2679,Model Training Basics
+2020/09/07 23:13:05,3-20,2795,Model Training in Azure Machine Learning
+2020/09/07 23:13:05,3-21,2667,Taxonomy of Azure Machine Learning
+2020/09/07 23:13:05,3-22,2532,Training Classifiers
+2020/09/07 23:13:05,3-23,2433,Training Regressors
+2020/09/07 23:13:05,3-24,2371,Evaluating Model Performance
+2020/09/07 23:13:05,3-25,2630,Evaluation Metrics for Classification
+2020/09/07 23:13:05,3-26,2413,Model Evaluation Charts
+2020/09/07 23:13:05,3-27,2513,Evaluation Metrics for Regression
+2020/09/07 23:13:05,3-28,2401,Walkthrough: Train and Evaluate a Model
+2020/09/07 23:13:05,3-29,2453,Strength in Numbers
+2020/09/07 23:13:05,3-30,2333,Ensemble Learning
+2020/09/07 23:13:05,3-31,2148,Strength in Variety: Automated ML
+2020/09/07 23:13:05,3-32,2151,Walkthrough: Train a Two-Class Boosted Decision Tree
+2020/09/07 23:13:05,3-33,2227,Walkthrough: Train a Simple Classifier with Automated ML
+2020/09/07 23:13:05,3-34,2300,Lesson Summary
+2020/09/07 23:13:05,4-0,2382,Lesson Overview
+2020/09/07 23:13:05,4-1,2431,Supervised Learning: Classification
+2020/09/07 23:13:05,4-2,2294,Categories of Algorithms
+2020/09/07 23:13:05,4-3,2235,Walkthrough: Two-Class Classifiers Performance
+2020/09/07 23:13:05,4-4,2514,Multi-Class Algorithms
+2020/09/07 23:13:05,4-5,2099,Walkthrough: Multi-Class Classifiers Performance
+2020/09/07 23:13:05,4-6,2027,Walkthrough: Train a Classifier Using Automated Machine Learning
+2020/09/07 23:13:05,4-7,2180,Introduction to Regression
+2020/09/07 23:13:05,4-8,2091,Categories of Algorithms
+2020/09/07 23:13:05,4-9,1954,Walkthrough: Regressors Performance
+2020/09/07 23:13:05,4-10,1899,Walkthrough: Train a Regressor using Automated Machine Learning
+2020/09/07 23:13:05,4-11,2064,Unsupervised Learning
+2020/09/07 23:13:05,4-12,1931,Unsupervised Learning (2)
+2020/09/07 23:13:05,4-13,1999,Types of Unsupervised Machine Learning
+2020/09/07 23:13:05,4-14,2073,Semi-Supervised Learnining
+2020/09/07 23:13:05,4-15,2145,Clustering Algorithms
+2020/09/07 23:13:05,4-16,1938,K-Means Clustering
+2020/09/07 23:13:05,4-17,1822,Walkthrough: Train a Simple Clustering Algorithm
+2020/09/07 23:13:05,5-0,2129,Lesson Overview
+2020/09/07 23:13:05,5-1,2107,Classical Machine Learning vs. Deep Learning
+2020/09/07 23:13:05,5-2,1947,A More Detailed Comparison
+2020/09/07 23:13:05,5-3,2063,What is Deep Learning?
+2020/09/07 23:13:05,5-4,1937,What is Deep Learning? (1)
+2020/09/07 23:13:05,5-5,1916,"A Word of Caution About ""Neural"""
+2020/09/07 23:13:05,5-6,1989,Characteristics of Deep Learning
+2020/09/07 23:13:05,5-7,2098,Benefits of Deep Learning
+2020/09/07 23:13:05,5-8,1872,Applications of Deep Learning
+2020/09/07 23:13:05,5-9,1851,Walkthrough: Train a Simple Neural Net
+2020/09/07 23:13:05,5-10,2029,A Review of Approaches to Machine Learning
+2020/09/07 23:13:05,5-11,1865,Specialized Cases of Model Training
+2020/09/07 23:13:05,5-12,2058,Similarity Learning
+2020/09/07 23:13:05,5-13,1858,Recommender Systems
+2020/09/07 23:13:05,5-14,1747,Walkthrough: Train a Simple Recommender
+2020/09/07 23:13:05,5-15,1594,Walkthrough: Train a Simple Recommender (2)
+2020/09/07 23:13:05,5-16,2022,Text Classification
+2020/09/07 23:13:05,5-17,1850,Training a Classification Model with Text
+2020/09/07 23:13:05,5-18,1692,Training a Classification Model with Text (1)
+2020/09/07 23:13:05,5-19,1680,Walkthrough: Train a Simple Text Classifier
+2020/09/07 23:13:05,5-20,1479,Walkthrough: Train a Simple Text Classifier (2)
+2020/09/07 23:13:05,5-21,1864,Feature Learning
+2020/09/07 23:13:05,5-22,1853,Applications of Feature Learning
+2020/09/07 23:13:05,5-23,1820,Feature Learning | Image Classification with Convolutional Neural Networks (CNNs)
+2020/09/07 23:13:05,5-24,1757,Feature Learning | Image Search with Autoencoders
+2020/09/07 23:13:05,5-25,1775,Anomaly Detection
+2020/09/07 23:13:05,5-26,1622,Applications of Anomaly Detection
+2020/09/07 23:13:05,5-27,1603,Example of Anomaly Detection
+2020/09/07 23:13:05,5-28,1764,Forecasting
+2020/09/07 23:13:05,5-29,1716,Types of Forecasting Algorithms
+2020/09/07 23:13:05,5-30,1700,Walkthrough: Forecasting
+2020/09/07 23:13:05,5-31,1586,Lesson Summary
+2020/09/07 23:13:05,6-0,2029,Lesson Overview
+2020/09/07 23:13:05,6-1,1972,Managed Services for Machine Learning
+2020/09/07 23:13:05,6-2,1942,Compute Resources | Training Compute
+2020/09/07 23:13:05,6-3,1803,Compute Resources | Inferencing Compute
+2020/09/07 23:13:05,6-4,1710,Walkthrough: Managing Compute
+2020/09/07 23:13:05,6-5,1710,Walkthrough: Managing Compute
+2020/09/07 23:13:05,6-6,1793,Managed Notebook Environments
+2020/09/07 23:13:05,6-7,1788,Managed Notebook Environments
+2020/09/07 23:13:05,6-8,1835,Basic Modeling
+2020/09/07 23:13:05,6-9,1680,Basic Modeling | Experiments
+2020/09/07 23:13:05,6-10,1622,Basic Modeling | Runs
+2020/09/07 23:13:05,6-11,1614,Basic Modeling | Models
+2020/09/07 23:13:05,6-12,1505,Basic Modeling | Model Registry
+2020/09/07 23:13:05,6-13,1582,Walkthrough: Explore Experiments and Runs
+2020/09/07 23:13:05,6-14,1709,Advanced Modeling
+2020/09/07 23:13:05,6-15,1612,Machine Learning Pipelines
+2020/09/07 23:13:05,6-16,1545,MLOps: Creating Automatic End-to-End Integrated Processes
+2020/09/07 23:13:05,6-17,1669,Operationalizing Models
+2020/09/07 23:13:05,6-18,1554,Real-time Inferencing
+2020/09/07 23:13:05,6-19,1519,Batch Inferencing
+2020/09/07 23:13:05,6-20,1494,Walkthrough: Deploy a Model as a Webservice - 1
+2020/09/07 23:13:05,6-21,1370,Walkthrough: Deploy a Model as a Webservice - 2
+2020/09/07 23:13:05,6-22,1362,Walkthrough: Deploy a Model as a Webservice - 3
+2020/09/07 23:13:05,6-23,1582,Programmatically Accessing Managed Services
+2020/09/07 23:13:05,6-24,1645,Walkthrough: Training and Deploying a Model from a Notebook Running in a Compute Instance
+2020/09/07 23:13:05,6-25,1417,Lesson Summary
+2020/09/07 23:13:05,7-0,1803,Lesson Overview
+2020/09/07 23:13:05,7-1,1899,Modern AI: Challenges and Principles
+2020/09/07 23:13:05,7-2,1824,Microsoft AI Principles
+2020/09/07 23:13:05,7-3,1766,Model Transparency and Explainability - 1
+2020/09/07 23:13:05,7-4,1687,Model Transparency and Explainability - 2
+2020/09/07 23:13:05,7-5,1576,Walkthrough: Model Explainability - 1
+2020/09/07 23:13:05,7-6,1452,Walkthrough: Model Explainability - 2
+2020/09/07 23:13:05,7-7,1674,Model Fairness
+2020/09/07 23:13:05,7-8,1687,Model Fairness - Demo
+2020/09/07 23:13:05,7-9,1510,Lesson Summary
+2020/09/07 23:13:05,8-0,1818,Course Conclusion
+2020/09/07 23:13:05,8-1,1545,The Future and Importance of Machine Learning
