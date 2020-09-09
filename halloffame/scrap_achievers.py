@@ -72,8 +72,8 @@ def get_data():
     df.to_csv('achievers.csv', index=False)
     return df
 
-df = pd.read_csv('achievers.csv')
-
+# df = pd.read_csv('achievers.csv')
+df = get_data()
 print(df.head())
 
 print(df.shape)
