@@ -52,20 +52,24 @@ def get_data():
 
     data = []
     slack_mentioned_message = ""
+    # comments = ""
     if not values:
         print('No data found.')
     else:
         print('DATA FOUND !!')
-        for row in values:
-            # Print rows A and E, which correspond to indices 0 and 4.
-            try:
-                if len(row) == 6:
-                    data.append([row[0], row[1], row[2], row[3], row[4], row[5]])
-                else:
-                    data.append([row[0], row[1], row[2], row[3], row[4], ''])
-                slack_mentioned_message += "@"+str(row[3]+",\n")
-            except Exception as err:
-                print(err)
+        with open('comments.txt', 'w') as file:
+            for row in values:
+                # Print rows A and E, which correspond to indices 0 and 4.
+                try:
+                    if len(row) == 6:
+                        data.append([row[0], row[1], row[2], row[3], row[4], row[5]])
+                    else:
+                        data.append([row[0], row[1], row[2], row[3], row[4], ''])
+                    slack_mentioned_message += "@"+str(row[3]+",\n")
+                    file.write("{}\n".format(row[5]))
+                except Exception as err:
+                    print(err)
+
 
     df = pd.DataFrame(data, columns =['date', 'email', 'name', 'slack_name', 'iscomplete', 'comment'])
 
@@ -95,6 +99,7 @@ df = df.drop(index=duplicateRowsDF.index)
 print(df.shape)
 
 df = df['date'].value_counts()
+
 # df = df.reindex(columns=['date', 'Achievers'])
 
 print(df)
