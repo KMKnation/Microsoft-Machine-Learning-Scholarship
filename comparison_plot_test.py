@@ -23,4 +23,3 @@ df["period"] = df["date"].astype(str)  + ' ' + df["lessons"].astype(str)
 print(df.head())
 df.plot.barh(x='period', y='views')
 
-plt.show()
