@@ -76,8 +76,8 @@ def get_data():
     df.to_csv('achievers.csv', index=False)
     return df
 
-df = pd.read_csv('achievers.csv')
-# df = get_data()
+# df = pd.read_csv('achievers.csv')
+df = get_data()
 print(df.head())
 
 print(df.shape)
@@ -99,15 +99,15 @@ df = df.drop(index=duplicateRowsDF.index)
 print(df.shape)
 df = df.sample(frac = 1)
 
-arr = "["
-for index, row in df.iterrows():
-    # arr += '"{}" ,'.format("Congratulations !! {} on completing the #50daysofUdacity challenge".format(row['slack_name']))
-    arr += '"{}" ,'.format(row['slack_name'])
-
-with open('spam.tc', 'a+') as file:
-    file.write(arr)
-
-exit(0)
+# arr = "["
+# for index, row in df.iterrows():
+#     # arr += '"{}" ,'.format("Congratulations !! {} on completing the #50daysofUdacity challenge".format(row['slack_name']))
+#     arr += '"{}" ,'.format(row['slack_name'])
+#
+# with open('spam.tc', 'a+') as file:
+#     file.write(arr)
+#
+# exit(0)
 
 df = df['date'].value_counts()
 
